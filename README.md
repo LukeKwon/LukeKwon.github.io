@@ -2,6 +2,9 @@
 
 생체역학, 재활, 움직임에 관한 연구 기록을 모으는 개인 블로그다. Astro로 정적 사이트를 생성하고 GitHub Pages로 배포한다.
 
+- 사이트: https://lukekwon.github.io/
+- 공개 저장소: https://github.com/LukeKwon/LukeKwon.github.io
+
 ## 로컬 미리보기
 
 Node.js 24 이상을 기준으로 한다.
@@ -41,8 +44,12 @@ npm run dev
 
 ## GitHub Pages
 
-현재 GitHub 원격 저장소는 연결하지 않았다. GitHub 계정의 인증을 확인한 뒤 새 저장소에 이 프로젝트를 올린다. Pages의 게시 소스는 GitHub Actions로 설정한다. `.github/workflows/deploy.yml`이 `main` 브랜치의 변경을 빌드하고 배포한다.
+GitHub 원격 저장소는 `LukeKwon/LukeKwon.github.io`다. Pages의 게시 소스는 GitHub Actions로 설정했다. `.github/workflows/deploy.yml`이 `main` 브랜치의 변경을 빌드하고 배포한다.
 
 GitHub Actions 환경에서는 저장소 이름에 맞춰 `site`와 `base`를 자동으로 설정한다. 사용자 홈페이지 저장소인 `사용자명.github.io`는 루트 경로를, 그 밖의 저장소는 저장소 이름에 해당하는 하위 경로를 사용한다. 별도 도메인을 쓰는 경우 환경변수 `SITE_URL`, `BASE_PATH`로 재설정한다.
 
 구글드라이브 안에서는 Git을 사용하지 않는다. `brand/`에는 제공받은 원본 이미지가 있고, 사이트에서는 `public/images/`의 복사본을 사용한다.
+
+## 검증
+
+`npm run verify`는 검증용 Markdown을 일시적으로 만들어 목차와 수식, 하위 경로, 초안 제외를 확인한다. 검증용 파일을 제거한 뒤 실제 사이트를 다시 빌드하고 8개 페이지의 내부 링크와 이미지 파일 경로를 확인한다. 2026년 11월 8일 로컬 검증과 GitHub Pages 빌드 및 배포를 통과했다.
