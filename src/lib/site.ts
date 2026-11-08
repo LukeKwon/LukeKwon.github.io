@@ -1,8 +1,8 @@
 export const site = {
   name: 'Kinesiology Notes',
-  koreanName: '운동학 노트',
+  koreanName: 'Kinesiology Notes',
   author: 'Junhyeong Kwon',
-  description: '생체역학을 중심으로 사람의 움직임을 공부합니다. 운동 퍼포먼스와 재활, 근골격계 분석과 공학적 접근에 관한 논문과 연구 기록을 나눕니다.',
+  description: '생체역학을 중심으로 사람의 움직임을 공부합니다. 운동 퍼포먼스와 재활, 근골격계 분석과 공학적 접근에 관한 논문과 연구 기록을 나눕니다. | Insta: @jh_logos',
   naver: 'https://blog.naver.com/itsmekinesiologist',
 };
 export const allCategories = [

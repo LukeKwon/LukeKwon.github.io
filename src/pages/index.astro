@@ -9,14 +9,14 @@ const posts = await getPosts();
   <section class="hero wrap" aria-label="Kinesiology Notes"><img src={href('images/banner.png')} width="2172" height="724" alt="Kinesiology Notes. Biomechanics / Rehabilitation / Movement. 주황색 관절 표시가 있는 달리는 사람의 선 그림." fetchpriority="high" /></section>
   <div class="wrap home-body">
     <aside class="profile-column">
-      <p class="eyebrow">ABOUT THE NOTES</p><h1>움직임을 공부하고,<br />기록합니다<span class="orange">.</span></h1>
+      <p class="eyebrow">ABOUT THE NOTES</p>
       <p class="intro">{site.description}</p>
-      <a class="author" href={href('about/')}><img src={href('images/logo.png')} width="52" height="52" alt="Kinesiology Notes 로고" /><span><strong>{site.author}</strong><small>운동학 노트</small></span><span aria-hidden="true">→</span></a>
+      <a class="author" href={href('about/')}><img src={href('images/logo.png')} width="52" height="52" alt="Kinesiology Notes 로고" /><span><strong>{site.author}</strong><small>{site.name}</small></span><span aria-hidden="true">→</span></a>
       <div class="sidebar-categories"><h2 class="eyebrow">CATEGORIES</h2>{categories.map(category => <a href={href(`categories/${category.slug}/`)}><span>{category.name}</span><span>{posts.filter(post => post.category === category.name).length.toString().padStart(2, '0')}</span></a>)}</div>
       <a class="text-link old-blog" href={site.naver} target="_blank" rel="noopener noreferrer">기존 네이버 블로그 ↗</a>
     </aside>
     <section class="notes-column" id="notes" aria-labelledby="notes-title">
-      <div class="section-heading"><div><p class="eyebrow">RESEARCH & WRITING</p><h2 id="notes-title">최근 기록</h2></div><span class="article-count">{posts.length}개의 글</span></div>
+      <div class="section-heading"><div><p class="eyebrow">RESEARCH & WRITING</p><h1 id="notes-title">최근 기록</h1></div><span class="article-count">{posts.length}개의 글</span></div>
       <div class="filter-bar" role="group" aria-label="카테고리 필터"><button class="selected" data-filter="all" aria-pressed="true">전체</button>{categories.map(category => <button data-filter={category.name} aria-pressed="false">{category.name}</button>)}</div>
       <p class="archive-note">네이버에서 작성한 글을 원래의 분류와 작성일에 맞춰 모았습니다.</p>
       <PostList posts={posts} />

@@ -1,5 +1,5 @@
 ---
-import { formatDate } from '../lib/site';
+import { formatDate, site } from '../lib/site';
 const { posts } = Astro.props;
 ---
 <div class="post-list" data-post-list>
@@ -7,7 +7,7 @@ const { posts } = Astro.props;
     <div class="post-meta"><span>{post.category}{post.subcategory && ` / ${post.subcategory}`}</span><time datetime={post.date.toISOString()}>{formatDate(post.date)}</time></div>
     <h3><a href={post.url} target={post.external ? '_blank' : undefined} rel={post.external ? 'noopener noreferrer' : undefined}>{post.title}<span class="post-arrow" aria-hidden="true">{post.external ? '↗' : '→'}</span>{post.external && <span class="sr-only"> (네이버 원문, 새 창)</span>}</a></h3>
     {post.description && <p class="post-description">{post.description}</p>}
-    <div class="post-bottom"><div class="tags">{post.tags.map((tag: string) => <span>#{tag}</span>)}</div><span class="source-label">{post.external ? '네이버 원문' : '운동학 노트'}</span></div>
+    <div class="post-bottom"><div class="tags">{post.tags.map((tag: string) => <span>#{tag}</span>)}</div><span class="source-label">{post.external ? '네이버 원문' : site.name}</span></div>
   </article>)}
 </div>
 <p class="empty-state" data-empty hidden>검색 조건에 맞는 글이 없습니다.</p>
