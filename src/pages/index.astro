@@ -1,0 +1,41 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PostList from '../components/PostList.astro';
+import { site, categories, href } from '../lib/site';
+import { getPosts } from '../lib/posts';
+const posts = await getPosts();
+---
+<Layout active="posts">
+  <section class="hero wrap" aria-label="Kinesiology Notes"><img src={href('images/banner.png')} width="2172" height="724" alt="Kinesiology Notes. Biomechanics / Rehabilitation / Movement. 주황색 관절 표시가 있는 달리는 사람의 선 그림." fetchpriority="high" /></section>
+  <div class="wrap home-body">
+    <aside class="profile-column">
+      <p class="eyebrow">ABOUT THE NOTES</p><h1>움직임을 공부하고,<br />기록합니다<span class="orange">.</span></h1>
+      <p class="intro">{site.description}</p>
+      <a class="author" href={href('about/')}><img src={href('images/logo.png')} width="52" height="52" alt="Kinesiology Notes 로고" /><span><strong>{site.author}</strong><small>운동학 노트</small></span><span aria-hidden="true">→</span></a>
+      <div class="sidebar-categories"><h2 class="eyebrow">CATEGORIES</h2>{categories.map(category => <a href={href(`categories/${category.slug}/`)}><span>{category.name}</span><span>{posts.filter(post => post.category === category.name).length.toString().padStart(2, '0')}</span></a>)}</div>
+      <a class="text-link old-blog" href={site.naver} target="_blank" rel="noopener noreferrer">기존 네이버 블로그 ↗</a>
+    </aside>
+    <section class="notes-column" id="notes" aria-labelledby="notes-title">
+      <div class="section-heading"><div><p class="eyebrow">RESEARCH & WRITING</p><h2 id="notes-title">최근 기록</h2></div><span class="article-count">{posts.length}개의 글</span></div>
+      <div class="filter-bar" role="group" aria-label="카테고리 필터"><button class="selected" data-filter="all" aria-pressed="true">전체</button>{categories.map(category => <button data-filter={category.name} aria-pressed="false">{category.name}</button>)}</div>
+      <p class="archive-note">기존 글은 ‘네이버 원문’ 링크로 연결됩니다.</p>
+      <PostList posts={posts} />
+      <div class="category-empty" data-category-empty hidden><p>이 카테고리의 기록은 기존 블로그에서 볼 수 있습니다.</p><a href="https://blog.naver.com/PostList.naver?blogId=itsmekinesiologist&categoryNo=10" target="_blank" rel="noopener noreferrer">스페셜포커스 원문 보기 ↗</a></div>
+      <p class="result-announcement sr-only" aria-live="polite" data-filter-result></p>
+    </section>
+  </div>
+</Layout>
+<script>
+  const buttons = document.querySelectorAll<HTMLButtonElement>('[data-filter]');
+  const rows = document.querySelectorAll<HTMLElement>('[data-post]');
+  const empty = document.querySelector<HTMLElement>('[data-category-empty]');
+  buttons.forEach(button => button.addEventListener('click', () => {
+    const category = button.dataset.filter;
+    let count = 0;
+    rows.forEach(row => { row.hidden = category !== 'all' && row.dataset.category !== category; if (!row.hidden) count++; });
+    buttons.forEach(item => { const selected = item === button; item.classList.toggle('selected', selected); item.setAttribute('aria-pressed', String(selected)); });
+    if (empty) empty.hidden = count > 0;
+    const announcement = document.querySelector('[data-filter-result]');
+    if (announcement) announcement.textContent = `${button.textContent} ${count}개의 글`;
+  }));
+</script>

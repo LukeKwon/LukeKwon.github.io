@@ -1,0 +1,7 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { categories, href } from '../../lib/site';
+import { getPosts } from '../../lib/posts';
+const posts = await getPosts();
+---
+<Layout title="카테고리" active="categories"><div class="wrap inner-page"><p class="eyebrow">BROWSE BY TOPIC</p><h1>카테고리<span class="orange">.</span></h1><p class="page-lead">관심 있는 주제로 기록을 찾아봅니다.</p><div class="category-list">{categories.map((category, index) => <a href={href(`categories/${category.slug}/`)}><span class="category-number">0{index + 1}</span><div><p class="eyebrow">{category.english}</p><h2>{category.name}</h2><p>{category.description}</p></div><span class="category-count">{posts.filter(post => post.category === category.name).length}개의 글 <span aria-hidden="true">↗</span></span></a>)}</div></div></Layout>

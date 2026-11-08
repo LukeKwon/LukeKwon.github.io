@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PostList from '../components/PostList.astro';
+import { getPosts } from '../lib/posts';
+const posts = await getPosts();
+---
+<Layout title="글 검색"><div class="wrap inner-page readable-list"><p class="eyebrow">SEARCH THE NOTES</p><h1>글 검색<span class="orange">.</span></h1><label class="search-label" for="post-search">제목 · 카테고리 · 태그</label><input id="post-search" class="search-input" type="search" placeholder="보행, 재활, 운동조절…" autocomplete="off" /><p class="search-count" role="status" aria-live="polite">전체 {posts.length}개의 글</p><PostList posts={posts} /></div></Layout>
+<script>
+  const input = document.querySelector<HTMLInputElement>('#post-search');
+  const rows = Array.from(document.querySelectorAll<HTMLElement>('[data-post]'));
+  const normalize = (value: string) => value.normalize('NFC').toLocaleLowerCase('ko-KR');
+  function search() {
+    const query = normalize(input?.value.trim() ?? '');
+    let count = 0;
+    rows.forEach(row => { row.hidden = !normalize(row.dataset.search ?? '').includes(query); if (!row.hidden) count++; });
+    const status = document.querySelector('[role="status"]');
+    if (status) status.textContent = query ? `${count}개의 검색 결과` : `전체 ${count}개의 글`;
+    const empty = document.querySelector<HTMLElement>('[data-empty]');
+    if (empty) empty.hidden = count > 0;
+  }
+  if (input) { input.value = new URLSearchParams(location.search).get('q') ?? ''; input.addEventListener('input', search); search(); }
+</script>
