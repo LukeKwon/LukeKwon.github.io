@@ -9,6 +9,7 @@ const posts = defineCollection({
     legacySlugs: z.array(z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/)).default([]),
     naverId: z.string().optional(),
     description: z.string(),
+    thumbnail: z.string().regex(/^\/images\/.+/).optional(),
     date: z.coerce.date(),
     category: z.string(),
     subcategory: z.string().optional(),
