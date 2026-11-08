@@ -20,7 +20,9 @@ npm run dev
 
 옵시디언에서 원본을 작성하고 Obsidian Sync로 기기 간 동기화한다. 발행할 글만 이 프로젝트의 `src/content/posts/`에 복사한다. 본문 수정은 옵시디언 원본에 반영한 뒤 다시 복사하는 방식으로 관리한다.
 
-새 글은 `src/content/posts/writing-template.md`의 사본으로 작성한다. 파일 이름은 영문 소문자와 하이픈으로 정한다. 예를 들어 `gait-analysis.md`는 `posts/gait-analysis/` 주소를 사용한다. 폴더를 옮기거나 파일 이름을 바꾸면 글 주소도 바뀐다.
+새 글은 `src/content/posts/새 글 작성 양식.md`의 사본으로 작성한다. 파일 이름은 내용을 알아보기 쉬운 한글 제목으로 정한다. 글 주소는 프런트매터의 `slug`에 영문 소문자와 하이픈으로 기록한다. 발행 후에는 제목이나 파일 이름을 바꾸더라도 `slug`는 유지한다. 예를 들어 `관절 손상 이후 근신경학적 변화.md`는 `slug: neuromuscular-changes-after-joint-injury`에 따라 `/posts/neuromuscular-changes-after-joint-injury/` 주소를 사용한다.
+
+발행할 글에는 고유한 `slug`가 필요하다. 주소가 중복되면 빌드를 중단한다. 과거 주소는 `legacySlugs`에 기록하며 해당 주소에는 새 주소로 이동하는 정적 페이지를 만든다.
 
 속성은 제목 `title`, 요약 `description`, 날짜 `date`, 카테고리 `category`, 태그 `tags`, 공개 여부 `draft`로 구성한다. 카테고리는 `src/lib/site.ts`의 상위 분류 중 하나다. 하위 분류는 `subcategory` 속성으로 기록한다. `draft`의 기본값은 `true`다. `draft: false`인 글만 빌드에 포함한다.
 
@@ -28,7 +30,7 @@ npm run dev
 
 ## 이미지와 Markdown
 
-이미지는 `public/images/posts/글이름/`에 둔다. Markdown에서 같은 이름의 상대 경로를 사용하는 방법은 다음과 같다.
+이미지는 `public/images/posts/글이름/`에 둔다. Markdown에서 이미지를 연결하는 방법은 다음과 같다.
 
 ```md
 ![그림 설명](/images/posts/gait-analysis/figure-1.png)
@@ -40,7 +42,7 @@ npm run dev
 
 ## 기존 네이버 글
 
-네이버 공개 글 211개의 본문을 Markdown으로 이전했다. 원래 작성일과 상위·하위 분류, 원문 주소를 보존했다. 사진과 도표는 `public/images/naver/`에 저장했다. 네이버의 링크 미리보기는 일반 링크로 바꿨다. 가져오지 못한 외부 이미지는 원래 주소를 링크로 남겼으며, 상세 내역은 `docs/migration-report.md`에 기록한다. 기존 글을 찾을 때는 글의 네이버 번호를 사용한다. 예를 들어 `src/content/posts/naver-224219478406.md`가 보행 분석 글의 발행본이다.
+네이버 공개 글 211개의 본문을 Markdown으로 이전했다. 원래 작성일과 상위·하위 분류, 원문 주소를 보존했다. 사진과 도표는 `public/images/naver/`에 저장했다. 네이버의 링크 미리보기는 일반 링크로 바꿨다. 가져오지 못한 외부 이미지는 원래 주소를 링크로 남겼으며, 상세 내역은 `docs/migration-report.md`에 기록한다. 원고 파일은 한글 제목으로 찾는다. 네이버 번호는 프런트매터의 `naverId`에 보존했다. 전체 파일명과 영문 주소의 대응은 `docs/article-addresses.json`에 기록한다.
 
 ## GitHub Pages
 
@@ -52,4 +54,4 @@ GitHub Actions 환경에서는 저장소 이름에 맞춰 `site`와 `base`를 �
 
 ## 검증
 
-`npm run verify`는 검증용 Markdown을 일시적으로 만들어 목차와 수식, 하위 경로, 초안 제외를 확인한다. 검증용 파일을 제거한 뒤 실제 사이트를 다시 빌드하고 모든 페이지의 내부 링크와 이미지 파일 경로를 확인한다. 2026년 11월 8일 로컬 검증과 GitHub Pages 빌드 및 배포를 통과했다.
+`npm run verify`는 검증용 Markdown을 일시적으로 만들어 목차와 수식, 하위 경로, 초안 제외를 확인한다. 제목과 파일명을 바꿔도 주소가 유지되는지, 이전 주소가 새 주소로 연결되는지도 검사한다. 검증용 파일을 제거한 뒤 실제 사이트를 다시 빌드하고 모든 페이지의 내부 링크와 이미지 파일 경로를 확인한다. 2026년 11월 8일 로컬 검증과 GitHub Pages 빌드 및 배포를 통과했다.

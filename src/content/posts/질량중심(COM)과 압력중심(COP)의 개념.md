@@ -1,0 +1,149 @@
+---
+slug: center-of-mass-center-of-pressure
+legacySlugs: [naver-223740266320]
+title: "COM(Center of Mass)과 COP(Center of Pressure)란 무엇인가?"
+description: ""
+date: "2025-01-27T20:32:00+09:00"
+category: "Kinesiology"
+subcategory: "기초(basic)"
+tags: []
+draft: false
+originalUrl: "https://blog.naver.com/itsmekinesiologist/223740266320"
+naverId: "223740266320"
+---
+
+![](/images/naver/bab3392123d1de3641ee7a94.jpg)
+
+
+
+이 두 개념은 다소 혼동되기 쉽지만, 실제로는 서로 독립적인 개념이다.
+
+
+
+먼저, <strong>COM(Center of Mass)</strong>과 <strong>COP(Center of Pressure)의</strong> 개념을 명확히 정의해보자. 이 두 가지는 균형과 안정성을 연구하는 운동(생체)역학에서 매우 중요한 개념이다.
+
+
+
+![](/images/naver/14b419b357d12ff898e19da3.png)
+
+**1\. COM(Center of Mass)**
+
+\- COM은 신체 전체의 무게(질량)중심을 의미.
+
+\- 인체의 각 세그먼트(e.g., 머리, 팔, 다리 등)의 질량 중심을 계산해 전체 질량의 평균 위치를 나타냄.
+
+쉽게 말해, COM은 몸의 균형이 유지되는 중심점을 가리킨다. 예를 들어, 사람이 서 있을 때 COM은 대략 배꼽 근처에 위치한다. 그러나 팔을 들어 올리거나 다리를 들면 COM의 위치도 변하기 마련이다.
+
+
+
+**2\. COP(Center of Pressure)**
+
+\- COP는 발이 지면에 닿아 있을 때 지면 반발력(ground reaction force, GRF)이 작용하는 위치를 나타냄.
+
+COP는 발바닥의 압력이 지면과 상호작용하면서 만들어지며, 발목 근육과 신경 조절의 결과로 계속해서 변화한다.
+
+* * *
+
+COM은 신체의 물리적 속성(질량 및 위치)에 의해 결정된다. COM은 특정 상황에서만 움직이며, 운동학적으로 ‘수동적인’ 역할을 한다고 이해할 수 있다.
+
+
+
+반면 COP는 근신경 조절(neuromuscular control)의 결과인데, 신경계의 명령(CNS에서 발산된 신경 신호)에 따라 이루어지므로, COP는 근신경계가 수행한 조정의 물리적 표현이다. COP는 관련 근육(특히 발과 발목의 근육)이 어떻게 작동하느냐에 따라 계속해서 변한다.
+
+
+
+COP는 COM의 불균형을 조정하며, 신체의 안정성을 유지하는 데 능동적 역할을 한다. 간단한 예를 들어보자면, COM이 균형을 잃고 앞으로 이동할 경우, 신경계는 이를 감지하고 발목 근육을 활성화하여 COP를 앞쪽으로 이동시킨다. 이는 근신경계가 COM의 움직임에 대해 보상하려는 결과로 COP가 생성된다는 것을 의미한다.
+
+* * *
+
+![](/images/naver/2b7a5a1a1df1d14f46b708b5.png)
+
+이제 위의 그림을 살펴보자. 그림은 사람이 발바닥을 지면에 대고 앞뒤로 흔들릴 때, COM과 COP의 변화 과정을 다섯 가지 시점에서 보여준다.
+
+
+
+**\[Time 1\]**
+
+\- COM은 COP보다 앞에 위치함.
+
+\- 발목을 기준으로 시계 방향의 회전 운동(angular acceleration, α)이 발생하며, 몸이 앞으로 기울어짐.
+
+\- 이를 보완하기 위해 발바닥 굽힘(plantarflexor) 근육이 반사적으로 활성화.
+
+**cf.**
+
+**\- Rp: COP가 발목에서 떨어진 거리**
+
+**\- Wg: COM이 발목에서 떨어진 거리**
+
+**\- RP < Wg: 결과적으로 시계 방향 각가속도(α)가 발생하며, 시계 방향 각속도(ω)가 유지됨.**
+
+
+
+**\[Time 2\]**
+
+\- 근신경 반응의 결과로 COP가 COM보다 앞으로 이동하게 됨.
+
+\- 이로 인해 몸은 더 이상 앞으로 기울지 않고, COM의 움직임이 안정화됨.
+
+
+
+**\[Time 3\]**
+
+\- 이제는 α가 반대로 작용하면서 몸이 뒤로 기울기 시작.
+
+\- 발목 근육은 이제 이 움직임을 제어하기 위해 다른 방향으로 반응.
+
+
+
+**\[Time 4 & 5\]**
+
+\- COP와 COM의 균형 조정이 반복되며, 몸은 원래 자세로 복귀.
+
+
+
+이 과정의 핵심은 COP는 COM의 움직임을 안정화하는 역할을 한다는 것이다. 예를 들어, COM이 너무 앞으로 이동하면 COP가 이를 감지하고 앞쪽으로 이동하여 균형을 유지한다. 마찬가지로, COM이 뒤로 이동하면 COP가 뒤쪽으로 이동하여 이를 보완한다. 이때 COP가 항상 COM보다 넓은 범위에서 움직여야 한다. 그렇지 않으면 신체는 균형을 잃고 쓰러질 것이다.
+
+* * *
+
+![](/images/naver/30e794410ed45b88f9426281.png)
+
+
+
+위의 그림은 40초 동안 측정된 COP와 COM의 데이터를 보여준다. COP와 COM의 궤적은 거의 같은 위상을 유지하지만, COP는 항상 COM보다 약간 더 크게 움직인다. 중요한 점은 COM의 방향이 바뀌는 모든 순간에 COP가 이를 초과하여 반응한다는 것이다. 이러한 데이터를 통해 COP가 어떻게 COM의 움직임을 제어하고 균형을 유지하는지 시각적으로 확인할 수 있다.
+
+* * *
+
+**\[작성자\]**
+
+**운동학자 권준형 (insta: @jh\_sportmedi)**
+
+본계정: [https://www.instagram.com/jh\_sportsmedi/](https://www.instagram.com/jh_sportsmedi/)
+
+지식공유계정: [https://www.instagram.com/returntoplay\_lab/](https://www.instagram.com/returntoplay_lab/)
+
+[Kwon Junhyeong, Kinesiologist(@jh\_sportsmedi) • Instagram 사진 및 동영상](https://www.instagram.com/jh_sportsmedi/)
+
+[리턴투플레이 | 운동학 연구소(@returntoplay\_lab) • Instagram 사진 및 동영상](https://www.instagram.com/returntoplay_lab/)
+
+* * *
+
+#압력중심
+
+#질량중심
+
+#운동역학
+
+#생체역학
+
+#트레이너
+
+#선수트레이너
+
+#퍼스널트레이너
+
+#물리치료사
+
+#뇌졸중재활
+
+#파킨슨재활

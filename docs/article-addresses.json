@@ -1,0 +1,1901 @@
+[
+  {
+    "title": "생체 시계가 운동 능력에 미치는 영향",
+    "file": "생체 시계가 운동 능력에 미치는 영향.md",
+    "slug": "circadian-clock-exercise-performance",
+    "legacySlugs": [
+      "naver-221858970692"
+    ],
+    "naverId": "221858970692"
+  },
+  {
+    "title": "나이가 들수록 근육에 신경써야 한다: 근감소증이란?",
+    "file": "나이가 들수록 근육에 신경써야 한다 - 근감소증이란.md",
+    "slug": "sarcopenia-aging-muscle",
+    "legacySlugs": [
+      "naver-221858972310"
+    ],
+    "naverId": "221858972310"
+  },
+  {
+    "title": "근감소증 개선을 위해서는 운동이 필수적이다",
+    "file": "근감소증 개선을 위해서는 운동이 필수적이다.md",
+    "slug": "exercise-for-sarcopenia",
+    "legacySlugs": [
+      "naver-221858975839"
+    ],
+    "naverId": "221858975839"
+  },
+  {
+    "title": "근감소증을 개선하고 싶다면 이렇게 하라",
+    "file": "근감소증을 개선하고 싶다면 이렇게 하라.md",
+    "slug": "sarcopenia-exercise-guidelines",
+    "legacySlugs": [
+      "naver-221858981972"
+    ],
+    "naverId": "221858981972"
+  },
+  {
+    "title": "Osteoarthritis 1: 관절염 개요",
+    "file": "골관절염 1. 관절염 개요.md",
+    "slug": "osteoarthritis-overview",
+    "legacySlugs": [
+      "naver-221858989072"
+    ],
+    "naverId": "221858989072"
+  },
+  {
+    "title": "Osteoarthritis 2: 관절염을 위한 운동 전략 상편",
+    "file": "골관절염 2. 관절염을 위한 운동 전략 상편.md",
+    "slug": "osteoarthritis-exercise-strategies-part-1",
+    "legacySlugs": [
+      "naver-221858992891"
+    ],
+    "naverId": "221858992891"
+  },
+  {
+    "title": "Osteoarthritis 3: 관절염을 위한 운동 전략 하편",
+    "file": "골관절염 3. 관절염을 위한 운동 전략 하편.md",
+    "slug": "osteoarthritis-exercise-strategies-part-2",
+    "legacySlugs": [
+      "naver-221858995588"
+    ],
+    "naverId": "221858995588"
+  },
+  {
+    "title": "논문은 현실과 다르기 때문에 믿을게 못 된다? : 근거 중심 스포츠 의학이란 무엇인가",
+    "file": "근거 중심 스포츠의학과 연구의 현장 적용.md",
+    "slug": "evidence-based-sports-medicine",
+    "legacySlugs": [
+      "naver-221860289566"
+    ],
+    "naverId": "221860289566"
+  },
+  {
+    "title": "언제까지 P-value만 볼 거야?",
+    "file": "언제까지 P-value만 볼 거야.md",
+    "slug": "beyond-p-values",
+    "legacySlugs": [
+      "naver-221860294243"
+    ],
+    "naverId": "221860294243"
+  },
+  {
+    "title": "트레이너도 통계 공부를 해야 한다",
+    "file": "트레이너도 통계 공부를 해야 한다.md",
+    "slug": "statistics-for-trainers",
+    "legacySlugs": [
+      "naver-221860297967"
+    ],
+    "naverId": "221860297967"
+  },
+  {
+    "title": "근육 불균형은 생각보다 중요하지 않다",
+    "file": "근육 불균형은 생각보다 중요하지 않다.md",
+    "slug": "rethinking-muscle-imbalance",
+    "legacySlugs": [
+      "naver-221860301964"
+    ],
+    "naverId": "221860301964"
+  },
+  {
+    "title": "Dynamic Knee Valgus 교정은 꼭 필수일까",
+    "file": "동적 무릎 외반 교정은 필수일까.md",
+    "slug": "dynamic-knee-valgus-correction",
+    "legacySlugs": [
+      "naver-221860306140"
+    ],
+    "naverId": "221860306140"
+  },
+  {
+    "title": "Motor System 1: 우리의 움직임은 어떻게 형성되는가?",
+    "file": "운동조절 1. 움직임은 어떻게 형성되는가.md",
+    "slug": "motor-system-movement-formation",
+    "legacySlugs": [
+      "naver-221860316440"
+    ],
+    "naverId": "221860316440"
+  },
+  {
+    "title": "Motor System 2: 움직임 패턴은 어떻게 변하는가",
+    "file": "운동조절 2. 움직임 패턴은 어떻게 변하는가.md",
+    "slug": "motor-system-movement-patterns",
+    "legacySlugs": [
+      "naver-221860320917"
+    ],
+    "naverId": "221860320917"
+  },
+  {
+    "title": "Motor System 3: 효과적인 움직임 재교육의 열쇠",
+    "file": "운동조절 3. 효과적인 움직임 재교육.md",
+    "slug": "motor-system-movement-reeducation",
+    "legacySlugs": [
+      "naver-221860326145"
+    ],
+    "naverId": "221860326145"
+  },
+  {
+    "title": "Motor System 4: 부상의 자연적 회복이 주는 통찰",
+    "file": "운동조절 4. 부상의 자연적 회복이 주는 통찰.md",
+    "slug": "motor-system-injury-recovery",
+    "legacySlugs": [
+      "naver-221860328761"
+    ],
+    "naverId": "221860328761"
+  },
+  {
+    "title": "Motor System 5: 심리적 요인으로 인해 몸이 아프기도 한다",
+    "file": "운동조절 5. 심리적 요인과 통증.md",
+    "slug": "motor-system-psychological-factors",
+    "legacySlugs": [
+      "naver-221860331857"
+    ],
+    "naverId": "221860331857"
+  },
+  {
+    "title": "Proprioception (고유수용성감각)을 위한 특정 운동은 없다.",
+    "file": "고유수용성감각을 위한 특정 운동은 없다.md",
+    "slug": "proprioception-specific-exercises",
+    "legacySlugs": [
+      "naver-221860339814"
+    ],
+    "naverId": "221860339814"
+  },
+  {
+    "title": "운동 선수들의 수면 부족 - 개요",
+    "file": "운동 선수들의 수면 부족 - 개요.md",
+    "slug": "athlete-sleep-deprivation-overview",
+    "legacySlugs": [
+      "naver-221860345154"
+    ],
+    "naverId": "221860345154"
+  },
+  {
+    "title": "고유수용성감각 훈련으로 발목 부상을 방지할 수 있을까?",
+    "file": "고유수용성감각 훈련으로 발목 부상을 방지할 수 있을까.md",
+    "slug": "proprioceptive-training-ankle-injury-prevention",
+    "legacySlugs": [
+      "naver-221860346938"
+    ],
+    "naverId": "221860346938"
+  },
+  {
+    "title": "선수들의 수면 부족 - 수면 질의 중요성",
+    "file": "선수들의 수면 부족 - 수면 질의 중요성.md",
+    "slug": "athlete-sleep-quality",
+    "legacySlugs": [
+      "naver-221860349370"
+    ],
+    "naverId": "221860349370"
+  },
+  {
+    "title": "Motor System 6: 손상 반응은 언제든 변화한다",
+    "file": "운동조절 6. 손상 반응은 언제든 변화한다.md",
+    "slug": "motor-system-changing-injury-responses",
+    "legacySlugs": [
+      "naver-221860351130"
+    ],
+    "naverId": "221860351130"
+  },
+  {
+    "title": "선수들의 수면 부족 - 총체적 난국",
+    "file": "선수들의 수면 부족 - 총체적 난국.md",
+    "slug": "athlete-sleep-problems",
+    "legacySlugs": [
+      "naver-221860357377"
+    ],
+    "naverId": "221860357377"
+  },
+  {
+    "title": "기능성 평발 고객을 대상으로 단축발 운동만 시키는 트레이너들에게",
+    "file": "기능성 평발 고객을 대상으로 단축발 운동만 시키는 트레이너들에게.md",
+    "slug": "functional-flatfoot-short-foot-exercise",
+    "legacySlugs": [
+      "naver-221860360243"
+    ],
+    "naverId": "221860360243"
+  },
+  {
+    "title": "Load Balance의 중요성",
+    "file": "부하 균형의 중요성.md",
+    "slug": "load-balance",
+    "legacySlugs": [
+      "naver-221860362348"
+    ],
+    "naverId": "221860362348"
+  },
+  {
+    "title": "[Plantar Pain] 족저 근막염(plantar fasciitis)은 정말 염증의 문제일까?",
+    "file": "발바닥 통증 - 족저 근막염(plantar fasciitis)은 정말 염증의 문제일까.md",
+    "slug": "plantar-fasciitis-inflammation",
+    "legacySlugs": [
+      "naver-221862559726"
+    ],
+    "naverId": "221862559726"
+  },
+  {
+    "title": "체형 교정을 그렇게 하고 싶어하는 트레이너들에게",
+    "file": "체형 교정을 그렇게 하고 싶어하는 트레이너들에게.md",
+    "slug": "rethinking-posture-correction",
+    "legacySlugs": [
+      "naver-221862587798"
+    ],
+    "naverId": "221862587798"
+  },
+  {
+    "title": "질 좋은 연구를 선별할 수 있는 트레이너가 되자",
+    "file": "질 좋은 연구를 선별할 수 있는 트레이너가 되자.md",
+    "slug": "evaluating-research-quality",
+    "legacySlugs": [
+      "naver-221883217205"
+    ],
+    "naverId": "221883217205"
+  },
+  {
+    "title": "Ankle Sprain 1. Introduction",
+    "file": "발목 염좌 1. 개요.md",
+    "slug": "ankle-sprain-introduction",
+    "legacySlugs": [
+      "naver-221899675680"
+    ],
+    "naverId": "221899675680"
+  },
+  {
+    "title": "Ankle Sprain 2. Injury Mechanisms",
+    "file": "발목 염좌 2. 손상 기전.md",
+    "slug": "ankle-sprain-injury-mechanisms",
+    "legacySlugs": [
+      "naver-221904920937"
+    ],
+    "naverId": "221904920937"
+  },
+  {
+    "title": "Ankle Sprain 3. Understanding of LAS Pathomechanics",
+    "file": "발목 염좌 3. 외측 발목 염좌의 병리역학.md",
+    "slug": "lateral-ankle-sprain-pathomechanics",
+    "legacySlugs": [
+      "naver-221916859342"
+    ],
+    "naverId": "221916859342"
+  },
+  {
+    "title": "Ankle Sprain 4. Arthrokinematic and Osteokinematic deficits after Ankle Sprain",
+    "file": "발목 염좌 4. 관절면 운동과 뼈 운동의 결손.md",
+    "slug": "ankle-sprain-arthrokinematic-deficits",
+    "legacySlugs": [
+      "naver-221923417101"
+    ],
+    "naverId": "221923417101"
+  },
+  {
+    "title": "Ankle Sprain 5. Introduction to Chronic Ankle Instability",
+    "file": "발목 염좌 5. 만성 발목 불안정의 개요.md",
+    "slug": "chronic-ankle-instability-overview",
+    "legacySlugs": [
+      "naver-221930952745"
+    ],
+    "naverId": "221930952745"
+  },
+  {
+    "title": "Ankle Sprain 6. Simple Biomechanics of Functional Instability",
+    "file": "발목 염좌 6. 기능적 불안정의 생체역학.md",
+    "slug": "functional-ankle-instability-biomechanics",
+    "legacySlugs": [
+      "naver-221936100447"
+    ],
+    "naverId": "221936100447"
+  },
+  {
+    "title": "트레이너는 부상을 어떻게 바라보아야 할까?",
+    "file": "트레이너는 부상을 어떻게 바라보아야 할까.md",
+    "slug": "how-trainers-understand-injury",
+    "legacySlugs": [
+      "naver-221950372948"
+    ],
+    "naverId": "221950372948"
+  },
+  {
+    "title": "From LAS to CAI 1. Introduction",
+    "file": "발목 염좌에서 만성 불안정으로 1. 개요.md",
+    "slug": "from-ankle-sprain-to-chronic-instability",
+    "legacySlugs": [
+      "naver-221950384593"
+    ],
+    "naverId": "221950384593"
+  },
+  {
+    "title": "From LAS to CAI 2. Restricted Dorsiflexion RoM",
+    "file": "발목 염좌에서 만성 불안정으로 2. 발등굽힘 가동범위 제한.md",
+    "slug": "ankle-instability-dorsiflexion-restriction",
+    "legacySlugs": [
+      "naver-221956035163"
+    ],
+    "naverId": "221956035163"
+  },
+  {
+    "title": "From LAS to CAI 3. Strength Deficits",
+    "file": "발목 염좌에서 만성 불안정으로 3. 근력 저하.md",
+    "slug": "ankle-instability-strength-deficits",
+    "legacySlugs": [
+      "naver-221968435004"
+    ],
+    "naverId": "221968435004"
+  },
+  {
+    "title": "From LAS to CAI 4. Alteration in Postural Control",
+    "file": "발목 염좌에서 만성 불안정으로 4. 자세 조절의 변화.md",
+    "slug": "ankle-instability-postural-control",
+    "legacySlugs": [
+      "naver-221979662501"
+    ],
+    "naverId": "221979662501"
+  },
+  {
+    "title": "Stability vs. Balance (안정성 vs. 균형 상태)",
+    "file": "안정성과 균형 상태의 차이.md",
+    "slug": "stability-versus-balance",
+    "legacySlugs": [
+      "naver-221987891860"
+    ],
+    "naverId": "221987891860"
+  },
+  {
+    "title": "기능적으로 운동하라고?, Function과 Training에 대하여",
+    "file": "기능적으로 운동하라고, Function과 Training에 대하여.md",
+    "slug": "function-and-training",
+    "legacySlugs": [
+      "naver-222004827575"
+    ],
+    "naverId": "222004827575"
+  },
+  {
+    "title": "만성 통증(chronic pain)이 우리에게 주는 메세지",
+    "file": "만성 통증(chronic pain)이 우리에게 주는 메세지.md",
+    "slug": "chronic-pain-messages",
+    "legacySlugs": [
+      "naver-222007603708"
+    ],
+    "naverId": "222007603708"
+  },
+  {
+    "title": "Hidden Function of Gastrocnemius in the Knee Joint",
+    "file": "무릎 관절에서 비복근의 기능.md",
+    "slug": "gastrocnemius-function-knee-joint",
+    "legacySlugs": [
+      "naver-222014190540"
+    ],
+    "naverId": "222014190540"
+  },
+  {
+    "title": "통계적으로 유의함 vs. 현장과의 관련성",
+    "file": "통계적으로 유의함 vs. 현장과의 관련성.md",
+    "slug": "statistical-significance-clinical-relevance",
+    "legacySlugs": [
+      "naver-222029601372"
+    ],
+    "naverId": "222029601372"
+  },
+  {
+    "title": "[Adaptation] 1. 인간의 적응력, 그리고 부상",
+    "file": "적응 1. 인간의 적응력과 부상.md",
+    "slug": "human-adaptation-and-injury",
+    "legacySlugs": [
+      "naver-222037101176"
+    ],
+    "naverId": "222037101176"
+  },
+  {
+    "title": "Spine Problem 1. Introduction to cervical spondylosis",
+    "file": "척추 문제 1. 경추증의 개요.md",
+    "slug": "cervical-spondylosis-introduction",
+    "legacySlugs": [
+      "naver-222039285064"
+    ],
+    "naverId": "222039285064"
+  },
+  {
+    "title": "트레이너라면 고객의 움직임을 건강하게 하는 데 집중하라",
+    "file": "트레이너라면 고객의 움직임을 건강하게 하는 데 집중하라.md",
+    "slug": "training-for-healthy-movement",
+    "legacySlugs": [
+      "naver-222058774175"
+    ],
+    "naverId": "222058774175"
+  },
+  {
+    "title": "[Adaptation] 2. 환경에 유연하게 적응한다는 것 (트레이너의 역할)",
+    "file": "적응 2. 환경에 유연하게 적응하는 움직임.md",
+    "slug": "adaptation-environment-and-trainers",
+    "legacySlugs": [
+      "naver-222070892647"
+    ],
+    "naverId": "222070892647"
+  },
+  {
+    "title": "하고자 하는 움직임에 따라 근육과 건의 역할이 달라진다",
+    "file": "하고자 하는 움직임에 따라 근육과 건의 역할이 달라진다.md",
+    "slug": "task-dependent-muscle-tendon-roles",
+    "legacySlugs": [
+      "naver-222187992306"
+    ],
+    "naverId": "222187992306"
+  },
+  {
+    "title": "고유수용성감각에 대한 오해와 진실 1. 고유수용성감각의 학술적 의미",
+    "file": "고유수용성감각 1. 학술적 의미.md",
+    "slug": "proprioception-definition",
+    "legacySlugs": [
+      "naver-222193644935"
+    ],
+    "naverId": "222193644935"
+  },
+  {
+    "title": "고유수용성감각에 대한 오해와 진실 2. 고유수용성감각의 실질적 역할",
+    "file": "고유수용성감각 2. 실질적 역할.md",
+    "slug": "proprioception-functional-roles",
+    "legacySlugs": [
+      "naver-222194803724"
+    ],
+    "naverId": "222194803724"
+  },
+  {
+    "title": "고유수용성감각에 대한 오해와 진실 3. 고유수용성감각을 위한 운동은 없다",
+    "file": "고유수용성감각 3. 특정 운동에 대한 오해.md",
+    "slug": "proprioception-exercise-misconceptions",
+    "legacySlugs": [
+      "naver-222197119438"
+    ],
+    "naverId": "222197119438"
+  },
+  {
+    "title": "내측광근을 선택적으로 활성화시킨다고?",
+    "file": "내측광근을 선택적으로 활성화시킨다고.md",
+    "slug": "selective-vastus-medialis-activation",
+    "legacySlugs": [
+      "naver-222211484141"
+    ],
+    "naverId": "222211484141"
+  },
+  {
+    "title": "구조에 빠져 기능을 놓치지 말 것. 기능에 빠져 구조를 소홀히 하지 말 것.",
+    "file": "운동 지도에서 구조와 기능을 함께 보는 관점.md",
+    "slug": "structure-and-function-in-training",
+    "legacySlugs": [
+      "naver-222405020733"
+    ],
+    "naverId": "222405020733"
+  },
+  {
+    "title": "중량 스퀏할 때 무릎에 루프 밴드 걸지 마세요",
+    "file": "중량 스퀏할 때 무릎에 루프 밴드 걸지 마세요.md",
+    "slug": "loop-bands-during-heavy-squats",
+    "legacySlugs": [
+      "naver-222478973520"
+    ],
+    "naverId": "222478973520"
+  },
+  {
+    "title": "[Eccentric Contraction] 1. 신장성 근수축의 특성과 이점",
+    "file": "신장성 수축 1. 특성과 이점.md",
+    "slug": "eccentric-contraction-benefits",
+    "legacySlugs": [
+      "naver-222620198706"
+    ],
+    "naverId": "222620198706"
+  },
+  {
+    "title": "[Eccentric Contraction] 2. 신장성 수축에 의한 근육 데미지",
+    "file": "신장성 수축 2. 근육 손상.md",
+    "slug": "eccentric-contraction-muscle-damage",
+    "legacySlugs": [
+      "naver-222621822311"
+    ],
+    "naverId": "222621822311"
+  },
+  {
+    "title": "[Eccentric Contraction] 3. 신장성 수축은 왜 다른 수축보다 큰 힘을 낼 수 있는 걸까?",
+    "file": "신장성 수축 3. 더 큰 힘을 내는 기전.md",
+    "slug": "eccentric-contraction-force-capacity",
+    "legacySlugs": [
+      "naver-222625710276"
+    ],
+    "naverId": "222625710276"
+  },
+  {
+    "title": "[Eccentric Contraction] 4. 잔류력 강화 현상(residual force enhancement)의 메커니즘",
+    "file": "신장성 수축 4. 잔류력 강화의 기전.md",
+    "slug": "residual-force-enhancement",
+    "legacySlugs": [
+      "naver-222628443793"
+    ],
+    "naverId": "222628443793"
+  },
+  {
+    "title": "[Eccentric Contraction] 5. 신장성 수축 후 근육 손상의 메커니즘",
+    "file": "신장성 수축 5. 근육 손상의 기전.md",
+    "slug": "eccentric-muscle-damage-mechanisms",
+    "legacySlugs": [
+      "naver-222634450897"
+    ],
+    "naverId": "222634450897"
+  },
+  {
+    "title": "\"이 스트레칭 하면 거북목의 원인을 해결할 수 있습니다!\"",
+    "file": "이 스트레칭 하면 거북목의 원인을 해결할 수 있습니다!.md",
+    "slug": "stretching-and-forward-head-posture",
+    "legacySlugs": [
+      "naver-222708997360"
+    ],
+    "naverId": "222708997360"
+  },
+  {
+    "title": "[Plantar Pain] 과도한 부하는 발바닥 통증의 원인이 아닐지 모른다",
+    "file": "발바닥 통증 - 과도한 부하는 발바닥 통증의 원인이 아닐지 모른다.md",
+    "slug": "plantar-pain-and-mechanical-load",
+    "legacySlugs": [
+      "naver-222820618837"
+    ],
+    "naverId": "222820618837"
+  },
+  {
+    "title": "Neuromuscular Control 1. Proprioception을 넘어 Neuromuscular Control을 향해",
+    "file": "고유수용성감각과 근신경 조절.md",
+    "slug": "proprioception-and-neuromuscular-control",
+    "legacySlugs": [
+      "naver-222823045061"
+    ],
+    "naverId": "222823045061"
+  },
+  {
+    "title": "[스키마와 함께하는 기관] (주)피트내비 (FITNAVI Inc.)",
+    "file": "스키마와 함께하는 기관 - 피트내비.md",
+    "slug": "partner-fitnavi",
+    "legacySlugs": [
+      "naver-222823060721"
+    ],
+    "naverId": "222823060721"
+  },
+  {
+    "title": "[스키마와 함께하는 기관] 탄현PT 나다워짐",
+    "file": "스키마와 함께하는 기관 - 탄현PT 나다워짐.md",
+    "slug": "partner-nadawojim",
+    "legacySlugs": [
+      "naver-222823083743"
+    ],
+    "naverId": "222823083743"
+  },
+  {
+    "title": "Neuromuscular Control 2. Feedback / Feedforward Control",
+    "file": "근신경 조절 - 피드백과 피드포워드.md",
+    "slug": "feedback-and-feedforward-control",
+    "legacySlugs": [
+      "naver-222827844208"
+    ],
+    "naverId": "222827844208"
+  },
+  {
+    "title": "[Muscle Force] 1. 근육의 힘은 건을 통해서만 전달되지 않는다.",
+    "file": "근육의 힘 전달 1. 건 이외의 경로.md",
+    "slug": "muscle-force-transmission-beyond-tendons",
+    "legacySlugs": [
+      "naver-222829436671"
+    ],
+    "naverId": "222829436671"
+  },
+  {
+    "title": "[Muscle Force] 2. 근육이 힘을 전달하는 또 다른 방식 (epimuscular pathway)",
+    "file": "근육의 힘 전달 2. 근외막을 통한 힘 전달.md",
+    "slug": "epimuscular-force-transmission",
+    "legacySlugs": [
+      "naver-222831299311"
+    ],
+    "naverId": "222831299311"
+  },
+  {
+    "title": "[저널클럽] 달리기 움직임에 대한 피드백이 부상과 관련된 역학을 바꾸는 데 효과가 있을까?",
+    "file": "저널클럽 - 달리기 움직임에 대한 피드백이 부상과 관련된 역학을 바꾸는 데 효과가 있을까.md",
+    "slug": "running-feedback-injury-biomechanics",
+    "legacySlugs": [
+      "naver-222833641733"
+    ],
+    "naverId": "222833641733"
+  },
+  {
+    "title": "[Muscle Force] 3. 근육과 건을 넘어 결합조직 네트워크로 (connective tissue function)",
+    "file": "근육의 힘 전달 3. 결합조직 네트워크의 기능.md",
+    "slug": "connective-tissue-force-transmission",
+    "legacySlugs": [
+      "naver-222837297402"
+    ],
+    "naverId": "222837297402"
+  },
+  {
+    "title": "점프에서 반동(counter-movement)을 주는 이유는 신장반사 때문이 아니다.",
+    "file": "반동 점프와 신장반사의 관계.md",
+    "slug": "countermovement-jump-stretch-reflex",
+    "legacySlugs": [
+      "naver-222839405585"
+    ],
+    "naverId": "222839405585"
+  },
+  {
+    "title": "많은 트레이너가 모르는 딥스쾃이 안 되는 이유",
+    "file": "많은 트레이너가 모르는 딥스쾃이 안 되는 이유.md",
+    "slug": "deep-squat-limitations",
+    "legacySlugs": [
+      "naver-222843326957"
+    ],
+    "naverId": "222843326957"
+  },
+  {
+    "title": "[저널클럽] 발목 안 좋은 사람은 사이드 커팅할 때 어떤 운동역학을 보일까?",
+    "file": "저널클럽 - 발목 안 좋은 사람은 사이드 커팅할 때 어떤 운동역학을 보일까.md",
+    "slug": "ankle-instability-side-cutting-kinetics",
+    "legacySlugs": [
+      "naver-222845626927"
+    ],
+    "naverId": "222845626927"
+  },
+  {
+    "title": "스쾃과 데드리프트를 '제대로' 해야하는 이유",
+    "file": "스쾃과 데드리프트를 '제대로' 해야하는 이유.md",
+    "slug": "squat-deadlift-technique",
+    "legacySlugs": [
+      "naver-222851595424"
+    ],
+    "naverId": "222851595424"
+  },
+  {
+    "title": "당신의 스쾃 지도법이 고객의 고관절을 망가뜨리고 있다",
+    "file": "당신의 스쾃 지도법이 고객의 고관절을 망가뜨리고 있다.md",
+    "slug": "squat-coaching-and-hip-function",
+    "legacySlugs": [
+      "naver-222853223679"
+    ],
+    "naverId": "222853223679"
+  },
+  {
+    "title": "[Force Development] 1. 근육이 힘을 발생시키는 매커니즘",
+    "file": "힘 발생 1. 근육이 힘을 발생시키는 기전.md",
+    "slug": "muscle-force-development-mechanisms",
+    "legacySlugs": [
+      "naver-222858635713"
+    ],
+    "naverId": "222858635713"
+  },
+  {
+    "title": "[Force Development] 2. 힘을 만들어 내는 매커니즘과 근육 슬랙(muscle slack)",
+    "file": "힘 발생 2. 근육 슬랙과 힘 발생.md",
+    "slug": "muscle-slack-and-force-development",
+    "legacySlugs": [
+      "naver-222861216076"
+    ],
+    "naverId": "222861216076"
+  },
+  {
+    "title": "[Elastic Mechanism] 1. 근육과 건, 그리고 스프링",
+    "file": "탄성 기전 1. 근육과 건 그리고 스프링.md",
+    "slug": "muscle-tendon-biological-springs",
+    "legacySlugs": [
+      "naver-222861912316"
+    ],
+    "naverId": "222861912316"
+  },
+  {
+    "title": "[Elastic Mechanism] 2. 에너지와 관련된, tendon의 3가지 기능",
+    "file": "탄성 기전 2. 건의 에너지 관련 기능 세 가지.md",
+    "slug": "three-tendon-energy-functions",
+    "legacySlugs": [
+      "naver-222862906032"
+    ],
+    "naverId": "222862906032"
+  },
+  {
+    "title": "트레이닝 고수일수록 단순하다.",
+    "file": "트레이닝 고수일수록 단순하다.md",
+    "slug": "simplicity-in-training",
+    "legacySlugs": [
+      "naver-222868153669"
+    ],
+    "naverId": "222868153669"
+  },
+  {
+    "title": "[Knee OA] 1. Epidemiology and Pathogenegis of Knee OA",
+    "file": "무릎 골관절염 1. 역학과 병태생리.md",
+    "slug": "knee-osteoarthritis-epidemiology-pathogenesis",
+    "legacySlugs": [
+      "naver-222869258069"
+    ],
+    "naverId": "222869258069"
+  },
+  {
+    "title": "[저널클럽] Running 동안 CAI와 copers의 ankle variability는 어떻게 다를까?",
+    "file": "만성 발목 불안정 환자와 회복자의 달리기 변동성.md",
+    "slug": "running-ankle-variability-cai-copers",
+    "legacySlugs": [
+      "naver-222870270815"
+    ],
+    "naverId": "222870270815"
+  },
+  {
+    "title": "[Knee OA] 2. Risk Factors for Knee OA",
+    "file": "무릎 골관절염 2. 위험요인.md",
+    "slug": "knee-osteoarthritis-risk-factors",
+    "legacySlugs": [
+      "naver-222871286143"
+    ],
+    "naverId": "222871286143"
+  },
+  {
+    "title": "[Knee OA] 3. 무릎 부정렬과 관절염 발병은 관계가 없다",
+    "file": "무릎 골관절염 3. 무릎 정렬과 관절염 발병.md",
+    "slug": "knee-alignment-osteoarthritis-onset",
+    "legacySlugs": [
+      "naver-222873326221"
+    ],
+    "naverId": "222873326221"
+  },
+  {
+    "title": "어쩌면 놓치고 있을 지연성근육통(DOMS)에 대한 이야기",
+    "file": "어쩌면 놓치고 있을 지연성근육통(DOMS)에 대한 이야기.md",
+    "slug": "delayed-onset-muscle-soreness",
+    "legacySlugs": [
+      "naver-222875654411"
+    ],
+    "naverId": "222875654411"
+  },
+  {
+    "title": "[Eccentric Contraction] 6. 신장성 수축에 의한 근섬유 데미지와 DOMS",
+    "file": "신장성 수축 6. 근섬유 손상과 지연성근육통.md",
+    "slug": "eccentric-muscle-fiber-damage-and-doms",
+    "legacySlugs": [
+      "naver-222875705078"
+    ],
+    "naverId": "222875705078"
+  },
+  {
+    "title": "[Knee OA] 4. 관절염 환자는 건강한 사람들과 어떻게 다를까?",
+    "file": "무릎 골관절염 4. 환자와 건강한 사람의 차이.md",
+    "slug": "knee-osteoarthritis-patient-characteristics",
+    "legacySlugs": [
+      "naver-222878578198"
+    ],
+    "naverId": "222878578198"
+  },
+  {
+    "title": "트레이너의 자격증과 스펙에 대해서",
+    "file": "트레이너의 자격증과 스펙에 대해서.md",
+    "slug": "trainer-qualifications-and-credentials",
+    "legacySlugs": [
+      "naver-222879574595"
+    ],
+    "naverId": "222879574595"
+  },
+  {
+    "title": "[Elastic Mechanism] 3. 왜 Springy Gait에 집중하는가?",
+    "file": "탄성 기전 3. 탄성 보행에 주목하는 이유.md",
+    "slug": "springy-gait-elastic-mechanisms",
+    "legacySlugs": [
+      "naver-222880344289"
+    ],
+    "naverId": "222880344289"
+  },
+  {
+    "title": "근육은 불이 꺼질(off) 수 있는가?",
+    "file": "근육은 불이 꺼질(off) 수 있는가.md",
+    "slug": "muscle-activation-on-off-misconceptions",
+    "legacySlugs": [
+      "naver-222887441094"
+    ],
+    "naverId": "222887441094"
+  },
+  {
+    "title": "[Knee OA] 5. Quadriceps와 Post-Traumatic Knee OA",
+    "file": "무릎 골관절염 5. 대퇴사두근과 외상 후 관절염.md",
+    "slug": "quadriceps-post-traumatic-knee-osteoarthritis",
+    "legacySlugs": [
+      "naver-222888386337"
+    ],
+    "naverId": "222888386337"
+  },
+  {
+    "title": "[Knee OA] 6. 왜 Quad Weakness 때문에 Osteoarthritis가 발병할 수 있다는 걸까?",
+    "file": "무릎 골관절염 6. 대퇴사두근 약화와 관절염의 기전.md",
+    "slug": "quadriceps-weakness-osteoarthritis-mechanisms",
+    "legacySlugs": [
+      "naver-222892659679"
+    ],
+    "naverId": "222892659679"
+  },
+  {
+    "title": "[Knee OA] 7. ACL Injury, Arthrogenic Muscle Inhibition, 그리고 Quad Weakness",
+    "file": "무릎 골관절염 7. ACL 손상과 관절성 근억제.md",
+    "slug": "acl-injury-arthrogenic-inhibition-weakness",
+    "legacySlugs": [
+      "naver-222903507343"
+    ],
+    "naverId": "222903507343"
+  },
+  {
+    "title": "[Knee OA] 8. Mechanisms of Arthrogenic Muscle Inhibition",
+    "file": "무릎 골관절염 8. 관절성 근억제의 기전.md",
+    "slug": "arthrogenic-muscle-inhibition-mechanisms",
+    "legacySlugs": [
+      "naver-222904345779"
+    ],
+    "naverId": "222904345779"
+  },
+  {
+    "title": "[저널클럽] 요추 디스크 탈출증 환자는 기본적인 trunk movement에서 어떤 co-contraction 전략을 보일까?",
+    "file": "요추 추간판 탈출증 환자의 몸통 근육 공동수축.md",
+    "slug": "lumbar-disc-herniation-co-contraction",
+    "legacySlugs": [
+      "naver-222907099620"
+    ],
+    "naverId": "222907099620"
+  },
+  {
+    "title": "인체와 운동에는 정답이 있다",
+    "file": "인체와 운동에는 정답이 있다.md",
+    "slug": "understanding-exercise-and-human-body",
+    "legacySlugs": [
+      "naver-222909986425"
+    ],
+    "naverId": "222909986425"
+  },
+  {
+    "title": "불안정한 상태로 당기기 운동할 때의 근육 활성과 척추 부하는 어떨까?",
+    "file": "불안정한 상태로 당기기 운동할 때의 근육 활성과 척추 부하는 어떨까.md",
+    "slug": "pulling-exercises-muscle-activity-spine-load",
+    "legacySlugs": [
+      "naver-222916551883"
+    ],
+    "naverId": "222916551883"
+  },
+  {
+    "title": "살이 찌는 건 정말 설탕 때문인가?",
+    "file": "살이 찌는 건 정말 설탕 때문인가.md",
+    "slug": "dietary-sugar-and-weight-gain",
+    "legacySlugs": [
+      "naver-222922517959"
+    ],
+    "naverId": "222922517959"
+  },
+  {
+    "title": "고지방, 고칼로리 음식이 정말 우리를 살찌게 하는가",
+    "file": "고지방, 고칼로리 음식이 정말 우리를 살찌게 하는가.md",
+    "slug": "dietary-fat-calories-and-weight-gain",
+    "legacySlugs": [
+      "naver-222924157326"
+    ],
+    "naverId": "222924157326"
+  },
+  {
+    "title": "구조를 공부하는 것과 구조를 교정하려는 것은 다르다",
+    "file": "구조를 공부하는 것과 구조를 교정하려는 것은 다르다.md",
+    "slug": "studying-structure-versus-correcting-structure",
+    "legacySlugs": [
+      "naver-222976755673"
+    ],
+    "naverId": "222976755673"
+  },
+  {
+    "title": "남양주 다산PT 피지컬플래닛 다산점",
+    "file": "함께하는 기관 - 피지컬플래닛 다산점.md",
+    "slug": "partner-physical-planet-dasan",
+    "legacySlugs": [
+      "naver-222987797296"
+    ],
+    "naverId": "222987797296"
+  },
+  {
+    "title": "[Neck Pain & Proprioception] 1. 만성 목 통증과 고유수용성감각에 대해서",
+    "file": "목 통증과 고유수용성감각 1. 만성 통증의 관계.md",
+    "slug": "chronic-neck-pain-proprioception",
+    "legacySlugs": [
+      "naver-222990468335"
+    ],
+    "naverId": "222990468335"
+  },
+  {
+    "title": "[Neck Pain & Proprioception] 2. 경추에 존재하는 고유수용기의 특성, 그리고 퇴행성 질환",
+    "file": "목 통증과 고유수용성감각 2. 경추 수용기와 퇴행성 질환.md",
+    "slug": "cervical-proprioceptors-degeneration",
+    "legacySlugs": [
+      "naver-222990477264"
+    ],
+    "naverId": "222990477264"
+  },
+  {
+    "title": "[Neck Pain & Proprioception] 3. 실험을 통해 알아본, 목 통증 환자의 운동 조절 손상",
+    "file": "목 통증과 고유수용성감각 3. 운동조절 손상.md",
+    "slug": "neck-pain-motor-control-impairments",
+    "legacySlugs": [
+      "naver-222990481221"
+    ],
+    "naverId": "222990481221"
+  },
+  {
+    "title": "[Neck Pain & Proprioception] 4. 만성 목통증과 근육 기능 손상에 대해서",
+    "file": "목 통증과 고유수용성감각 4. 근육 기능 손상.md",
+    "slug": "chronic-neck-pain-muscle-dysfunction",
+    "legacySlugs": [
+      "naver-222990486377"
+    ],
+    "naverId": "222990486377"
+  },
+  {
+    "title": "[Neuromuscular Fatigue] 1.서론 - 피로(fatigue)란 무엇인가",
+    "file": "신경근 피로 1. 피로의 개념.md",
+    "slug": "neuromuscular-fatigue-introduction",
+    "legacySlugs": [
+      "naver-223043927410"
+    ],
+    "naverId": "223043927410"
+  },
+  {
+    "title": "[Muscle Mechanics] 근육의 구조에 따라 근육마다의 기능이 다르다",
+    "file": "근육 구조에 따른 기능의 차이.md",
+    "slug": "muscle-architecture-and-function",
+    "legacySlugs": [
+      "naver-223058587696"
+    ],
+    "naverId": "223058587696"
+  },
+  {
+    "title": "[저널클럽] 당신은 p-value의 한계를 아는 트레이너인가요?",
+    "file": "저널클럽 - 당신은 p-value의 한계를 아는 트레이너인가요.md",
+    "slug": "understanding-p-value-limitations",
+    "legacySlugs": [
+      "naver-223104952561"
+    ],
+    "naverId": "223104952561"
+  },
+  {
+    "title": "[저널클럽] 어깨 수술 후 가능한 빨리 RoM을 확보해야 할까?",
+    "file": "저널클럽 - 어깨 수술 후 가능한 빨리 RoM을 확보해야 할까.md",
+    "slug": "rotator-cuff-repair-early-range-of-motion",
+    "legacySlugs": [
+      "naver-223104957451"
+    ],
+    "naverId": "223104957451"
+  },
+  {
+    "title": "[Neuromuscular Fatigue] 2. 급성 피로(acute fatigue)와 운동 수행력의 저하",
+    "file": "신경근 피로 2. 급성 피로와 운동 수행력 저하.md",
+    "slug": "acute-fatigue-exercise-performance",
+    "legacySlugs": [
+      "naver-223108082240"
+    ],
+    "naverId": "223108082240"
+  },
+  {
+    "title": "[Asymmetry] 1. 성별과 근력 수준에 따른 Force Production Asymmetry",
+    "file": "근력 비대칭 1. 성별과 근력 수준에 따른 차이.md",
+    "slug": "force-asymmetry-sex-strength-level",
+    "legacySlugs": [
+      "naver-223109717173"
+    ],
+    "naverId": "223109717173"
+  },
+  {
+    "title": "[Asymmetry] 2. ACL 재건 후 복귀 시점에서의 근력 비대칭에 대해서 (1)",
+    "file": "근력 비대칭 2. ACL 재건 후 스포츠 복귀 시점 상편.md",
+    "slug": "acl-reconstruction-strength-asymmetry-part-1",
+    "legacySlugs": [
+      "naver-223113816103"
+    ],
+    "naverId": "223113816103"
+  },
+  {
+    "title": "[Asymmetry] 3. ACL 재건 후 복귀 시점에서의 근력 비대칭에 대해서 (2)",
+    "file": "근력 비대칭 3. ACL 재건 후 스포츠 복귀 시점 하편.md",
+    "slug": "acl-reconstruction-strength-asymmetry-part-2",
+    "legacySlugs": [
+      "naver-223116666617"
+    ],
+    "naverId": "223116666617"
+  },
+  {
+    "title": "[Asymmetry] 4. 피로(fatigue)할 때는 역학적 불균형이 더 심해질까",
+    "file": "근력 비대칭 4. 피로할 때의 역학적 불균형.md",
+    "slug": "fatigue-lower-limb-asymmetry",
+    "legacySlugs": [
+      "naver-223120266287"
+    ],
+    "naverId": "223120266287"
+  },
+  {
+    "title": "[Stiffness] 1. 트레이너가 Stiffness에 대해 공부해야 하는 이유",
+    "file": "강성 1. 트레이너가 강성을 공부해야 하는 이유.md",
+    "slug": "why-trainers-should-study-stiffness",
+    "legacySlugs": [
+      "naver-223121227778"
+    ],
+    "naverId": "223121227778"
+  },
+  {
+    "title": "[Stiffness] 2. 생체역학에서 사용되는 다양한 stiffness의 개념",
+    "file": "강성 2. 생체역학에서 사용하는 강성의 개념.md",
+    "slug": "stiffness-concepts-in-biomechanics",
+    "legacySlugs": [
+      "naver-223123768729"
+    ],
+    "naverId": "223123768729"
+  },
+  {
+    "title": "[Stiffness] 3. Running performance와 Stiffness의 상호작용에 대해서",
+    "file": "강성 3. 달리기 퍼포먼스와 강성의 상호작용.md",
+    "slug": "running-performance-and-stiffness",
+    "legacySlugs": [
+      "naver-223125404594"
+    ],
+    "naverId": "223125404594"
+  },
+  {
+    "title": "[저널클럽] Pronated Foot Function이 보행 생체역학에 미치는 영향 (1)",
+    "file": "회내된 발의 보행 생체역학 1편.md",
+    "slug": "pronated-foot-gait-biomechanics-part-1",
+    "legacySlugs": [
+      "naver-223127677202"
+    ],
+    "naverId": "223127677202"
+  },
+  {
+    "title": "[저널클럽] Pronated Foot Function이 보행 생체역학에 미치는 영향 (2)",
+    "file": "회내된 발의 보행 생체역학 2편.md",
+    "slug": "pronated-foot-gait-biomechanics-part-2",
+    "legacySlugs": [
+      "naver-223130037748"
+    ],
+    "naverId": "223130037748"
+  },
+  {
+    "title": "[저널클럽] Pronated Foot Function이 보행 생체역학에 미치는 영향 (3)",
+    "file": "회내된 발의 보행 생체역학 3편.md",
+    "slug": "pronated-foot-gait-biomechanics-part-3",
+    "legacySlugs": [
+      "naver-223133709559"
+    ],
+    "naverId": "223133709559"
+  },
+  {
+    "title": "[Stiffness] 4. Foot strike pattern에 따라 joint stiffness도 변한다.",
+    "file": "강성 4. 착지 유형과 관절 강성.md",
+    "slug": "foot-strike-pattern-joint-stiffness",
+    "legacySlugs": [
+      "naver-223140255350"
+    ],
+    "naverId": "223140255350"
+  },
+  {
+    "title": "[Stiffness] 5. 과한 Stiffness는 어떤 부상을 초래할까?",
+    "file": "강성 5. 과도한 강성과 부상.md",
+    "slug": "excessive-stiffness-and-injury",
+    "legacySlugs": [
+      "naver-223143084428"
+    ],
+    "naverId": "223143084428"
+  },
+  {
+    "title": "[Stiffness] 6(完). 다리 부상 위험을 줄이는 한 가지 방법",
+    "file": "강성 6. 다리 부상 위험을 줄이는 방법.md",
+    "slug": "stiffness-lower-limb-injury-prevention",
+    "legacySlugs": [
+      "naver-223147527169"
+    ],
+    "naverId": "223147527169"
+  },
+  {
+    "title": "[Hamstring Stiffness] 1. 점프에서 햄스트링 역할이 중요한 이유",
+    "file": "햄스트링 강성 1. 점프에서 햄스트링의 역할.md",
+    "slug": "hamstring-stiffness-jump-performance",
+    "legacySlugs": [
+      "naver-223160406650"
+    ],
+    "naverId": "223160406650"
+  },
+  {
+    "title": "[Meniscal Tear] 반월상 연골판 수술 vs. 운동치료",
+    "file": "반월상연골판 손상 - 수술과 운동치료.md",
+    "slug": "meniscal-tear-surgery-versus-exercise",
+    "legacySlugs": [
+      "naver-223169489109"
+    ],
+    "naverId": "223169489109"
+  },
+  {
+    "title": "[Meniscus] 반월상연골판의 기초해부학",
+    "file": "반월상연골판의 기초 해부학.md",
+    "slug": "meniscus-basic-anatomy",
+    "legacySlugs": [
+      "naver-223171909216"
+    ],
+    "naverId": "223171909216"
+  },
+  {
+    "title": "[Meniscus] 반월상연골판의 생체역학과 기능 (1) - 부하 전달, 충격 흡수",
+    "file": "반월상연골판의 기능 1. 부하 전달과 충격 흡수.md",
+    "slug": "meniscus-load-transmission-shock-absorption",
+    "legacySlugs": [
+      "naver-223173816071"
+    ],
+    "naverId": "223173816071"
+  },
+  {
+    "title": "[Meniscus] 반월상연골판의 생체역학과 기능 (2) - 관절안정성, 윤활, 고유수용성감각",
+    "file": "반월상연골판의 기능 2. 안정성과 윤활 및 고유수용성감각.md",
+    "slug": "meniscus-stability-lubrication-proprioception",
+    "legacySlugs": [
+      "naver-223180456002"
+    ],
+    "naverId": "223180456002"
+  },
+  {
+    "title": "무릎 수술했는데 아직도 무릎이 전부 안 펴져요",
+    "file": "무릎 수술했는데 아직도 무릎이 전부 안 펴져요.md",
+    "slug": "knee-extension-deficit-after-surgery",
+    "legacySlugs": [
+      "naver-223183238767"
+    ],
+    "naverId": "223183238767"
+  },
+  {
+    "title": "점프 퍼포먼스와 팔꿈치 인대 부상의 관계 - 1편",
+    "file": "점프 퍼포먼스와 팔꿈치 인대 부상의 관계 - 1편.md",
+    "slug": "jump-performance-elbow-ligament-injury-part-1",
+    "legacySlugs": [
+      "naver-223191177250"
+    ],
+    "naverId": "223191177250"
+  },
+  {
+    "title": "점프 퍼포먼스와 팔꿈치 인대 부상의 관계 - 2편",
+    "file": "점프 퍼포먼스와 팔꿈치 인대 부상의 관계 - 2편.md",
+    "slug": "jump-performance-elbow-ligament-injury-part-2",
+    "legacySlugs": [
+      "naver-223192228686"
+    ],
+    "naverId": "223192228686"
+  },
+  {
+    "title": "배구선수 어깨의 역학적 적응과 부상과의 연관성 - 1편",
+    "file": "배구선수 어깨의 역학적 적응과 부상과의 연관성 - 1편.md",
+    "slug": "volleyball-shoulder-adaptation-injury-part-1",
+    "legacySlugs": [
+      "naver-223194256482"
+    ],
+    "naverId": "223194256482"
+  },
+  {
+    "title": "배구선수 어깨의 역학적 적응과 부상과의 연관성 - 2편",
+    "file": "배구선수 어깨의 역학적 적응과 부상과의 연관성 - 2편.md",
+    "slug": "volleyball-shoulder-adaptation-injury-part-2",
+    "legacySlugs": [
+      "naver-223196655464"
+    ],
+    "naverId": "223196655464"
+  },
+  {
+    "title": "배구선수 어깨의 역학적 적응과 부상과의 연관성 - 3편(完)",
+    "file": "배구선수 어깨의 역학적 적응과 부상과의 연관성 - 3편(完).md",
+    "slug": "volleyball-shoulder-adaptation-injury-part-3",
+    "legacySlugs": [
+      "naver-223199623746"
+    ],
+    "naverId": "223199623746"
+  },
+  {
+    "title": "피로한 상태에서 밸런스 훈련 하는 게 좋은가? - 1편",
+    "file": "피로한 상태에서 밸런스 훈련 하는 게 좋은가 - 1편.md",
+    "slug": "balance-training-under-fatigue-part-1",
+    "legacySlugs": [
+      "naver-223203659836"
+    ],
+    "naverId": "223203659836"
+  },
+  {
+    "title": "피로한 상태에서 밸런스 훈련 하는 게 좋은가? - 2편(完)",
+    "file": "피로한 상태에서 밸런스 훈련 하는 게 좋은가 - 2편(完).md",
+    "slug": "balance-training-under-fatigue-part-2",
+    "legacySlugs": [
+      "naver-223214507966"
+    ],
+    "naverId": "223214507966"
+  },
+  {
+    "title": "\"어깨 근력이 약하니까 어깨가 아픈 거야\"",
+    "file": "어깨 근력이 약하니까 어깨가 아픈 거야.md",
+    "slug": "shoulder-strength-and-pain",
+    "legacySlugs": [
+      "naver-223218420308"
+    ],
+    "naverId": "223218420308"
+  },
+  {
+    "title": "[After Joint Injury] 부상 이후, 신경 적응에 대한 여러가지 가설들",
+    "file": "관절 손상 이후 신경 적응에 대한 가설.md",
+    "slug": "neural-adaptation-after-joint-injury",
+    "legacySlugs": [
+      "naver-223227615792"
+    ],
+    "naverId": "223227615792"
+  },
+  {
+    "title": "[After Joint Injury] 부상을 당하고 생기는 근신경적 변화, 그리고 잠재적 영향력",
+    "file": "관절 손상 이후 근신경 변화의 기능적 영향.md",
+    "slug": "neuromuscular-changes-functional-consequences",
+    "legacySlugs": [
+      "naver-223229013261"
+    ],
+    "naverId": "223229013261"
+  },
+  {
+    "title": "[After Joint Injury] '관절 손상'과 '움직임 변화' 사이의 연결고리",
+    "file": "관절 손상 이후 근신경학적 변화.md",
+    "slug": "neuromuscular-changes-after-joint-injury",
+    "legacySlugs": [
+      "naver-223229757104"
+    ],
+    "naverId": "223229757104"
+  },
+  {
+    "title": "[After Joint Injury] 부상, 신경가소성, 그리고 기능부전",
+    "file": "관절 손상 이후 신경가소성과 기능부전.md",
+    "slug": "injury-neuroplasticity-and-dysfunction",
+    "legacySlugs": [
+      "naver-223235675240"
+    ],
+    "naverId": "223235675240"
+  },
+  {
+    "title": "[After Joint Injury] 관절의 부상에 대한 CNS의 반응_1편",
+    "file": "관절 손상 이후 중추신경계의 반응 1편.md",
+    "slug": "cns-response-to-joint-injury-part-1",
+    "legacySlugs": [
+      "naver-223239521207"
+    ],
+    "naverId": "223239521207"
+  },
+  {
+    "title": "[만성 요통] 서론 - 만성 허리 통증의 병리적 기전",
+    "file": "만성 요통 - 서론 - 만성 허리 통증의 병리적 기전.md",
+    "slug": "chronic-low-back-pain-pathology-introduction",
+    "legacySlugs": [
+      "naver-223243657732"
+    ],
+    "naverId": "223243657732"
+  },
+  {
+    "title": "[만성 요통] 디스크 퇴행이 만성 요통을 발생시키는 이유",
+    "file": "만성 요통 - 디스크 퇴행이 만성 요통을 발생시키는 이유.md",
+    "slug": "disc-degeneration-chronic-low-back-pain",
+    "legacySlugs": [
+      "naver-223255040348"
+    ],
+    "naverId": "223255040348"
+  },
+  {
+    "title": "[만성 요통] 허리 근육/근막의 퇴행과 만성 요통",
+    "file": "만성 요통 - 허리 근육 - 근막의 퇴행과 만성 요통.md",
+    "slug": "lumbar-muscle-fascia-degeneration-pain",
+    "legacySlugs": [
+      "naver-223258387520"
+    ],
+    "naverId": "223258387520"
+  },
+  {
+    "title": "[Rotator Cuff] 어깨가 아픈 이유가 충돌증후군 때문일까? (Impingement 1편)",
+    "file": "회전근개 1. 어깨 통증과 충돌증후군.md",
+    "slug": "shoulder-pain-impingement-part-1",
+    "legacySlugs": [
+      "naver-223269894936"
+    ],
+    "naverId": "223269894936"
+  },
+  {
+    "title": "[Rotator Cuff] 충돌 때문이 아니면, 어깨는 왜 아픈가? (Impingement 2편)",
+    "file": "회전근개 2. 충돌 이외의 어깨 통증 원인.md",
+    "slug": "shoulder-pain-beyond-impingement-part-2",
+    "legacySlugs": [
+      "naver-223271179100"
+    ],
+    "naverId": "223271179100"
+  },
+  {
+    "title": "[Rotator Cuff] 어깨 스페셜테스트는 쓸모없다..? (assessment 1편)",
+    "file": "회전근개 평가 1. 어깨 특수검사의 해석.md",
+    "slug": "shoulder-special-tests-assessment",
+    "legacySlugs": [
+      "naver-223272862961"
+    ],
+    "naverId": "223272862961"
+  },
+  {
+    "title": "[Rotator Cuff] 힘줄이 찢어졌는데 증상은 없었다 (assessment 2편)",
+    "file": "회전근개 평가 2. 무증상 힘줄 파열.md",
+    "slug": "asymptomatic-rotator-cuff-tears",
+    "legacySlugs": [
+      "naver-223283866772"
+    ],
+    "naverId": "223283866772"
+  },
+  {
+    "title": "[만성 요통] 요통과 말초 염증, 그리고 중추 병리",
+    "file": "만성 요통 - 요통과 말초 염증, 그리고 중추 병리.md",
+    "slug": "low-back-pain-inflammation-central-pathology",
+    "legacySlugs": [
+      "naver-223287179961"
+    ],
+    "naverId": "223287179961"
+  },
+  {
+    "title": "[Rotator Cuff] SSMP, 어깨 증상을 평가하고 중재하는 방법 (assessment 3편)",
+    "file": "회전근개 평가 3. 어깨 증상 수정 절차(SSMP).md",
+    "slug": "shoulder-symptom-modification-procedure",
+    "legacySlugs": [
+      "naver-223290346362"
+    ],
+    "naverId": "223290346362"
+  },
+  {
+    "title": "[Rotator Cuff] 회전근개 재활 운동의 기본 원칙 (rehab 1편)",
+    "file": "회전근개 재활 1. 운동의 기본 원칙.md",
+    "slug": "rotator-cuff-rehabilitation-principles",
+    "legacySlugs": [
+      "naver-223292522642"
+    ],
+    "naverId": "223292522642"
+  },
+  {
+    "title": "[Rotator Cuff] 효과적인 회전근개 재활을 위한 팁 (rehab 2편)",
+    "file": "회전근개 재활 2. 효과적인 재활을 위한 적용.md",
+    "slug": "rotator-cuff-rehabilitation-tips",
+    "legacySlugs": [
+      "naver-223293418415"
+    ],
+    "naverId": "223293418415"
+  },
+  {
+    "title": "[만성요통] 만성 허리통증의 병리적 기전 요점정리",
+    "file": "만성 요통 - 만성 허리통증의 병리적 기전 요점정리.md",
+    "slug": "chronic-low-back-pain-pathology-summary",
+    "legacySlugs": [
+      "naver-223294779162"
+    ],
+    "naverId": "223294779162"
+  },
+  {
+    "title": "[만성 요통] 요통과 다열근의 관계",
+    "file": "만성 요통 - 요통과 다열근의 관계.md",
+    "slug": "low-back-pain-and-multifidus",
+    "legacySlugs": [
+      "naver-223297451071"
+    ],
+    "naverId": "223297451071"
+  },
+  {
+    "title": "[만성 요통] 불안정한 허리와 통증",
+    "file": "만성 요통 - 불안정한 허리와 통증.md",
+    "slug": "lumbar-instability-and-pain",
+    "legacySlugs": [
+      "naver-223301551526"
+    ],
+    "naverId": "223301551526"
+  },
+  {
+    "title": "[만성 요통] 다열근이 약해졌다, 그래서 어쩌라는 건가?",
+    "file": "만성 요통 - 다열근이 약해졌다, 그래서 어쩌라는 건가.md",
+    "slug": "multifidus-weakness-clinical-implications",
+    "legacySlugs": [
+      "naver-223303965514"
+    ],
+    "naverId": "223303965514"
+  },
+  {
+    "title": "[피로골절] 피로골절의 종류와 병태생리 (기본)",
+    "file": "피로골절 - 피로골절의 종류와 병태생리 (기본).md",
+    "slug": "stress-fracture-types-pathophysiology",
+    "legacySlugs": [
+      "naver-223307461468"
+    ],
+    "naverId": "223307461468"
+  },
+  {
+    "title": "[피로골절] 뼈는 정상인데 부하(load)가 이상하다",
+    "file": "피로골절 - 뼈는 정상인데 부하(load)가 이상하다.md",
+    "slug": "fatigue-fractures-and-abnormal-load",
+    "legacySlugs": [
+      "naver-223309416077"
+    ],
+    "naverId": "223309416077"
+  },
+  {
+    "title": "[피로골절] 피로골절과 골다공증, Insufficiency Fractures",
+    "file": "피로골절과 골다공증 - 불충분골절.md",
+    "slug": "insufficiency-fractures-and-osteoporosis",
+    "legacySlugs": [
+      "naver-223311157987"
+    ],
+    "naverId": "223311157987"
+  },
+  {
+    "title": "'고유수용성감각 운동'이라고 부르는 이유가 뭐에요?",
+    "file": "'고유수용성감각 운동'이라고 부르는 이유가 뭐에요.md",
+    "slug": "why-we-say-proprioceptive-exercise",
+    "legacySlugs": [
+      "naver-223312375434"
+    ],
+    "naverId": "223312375434"
+  },
+  {
+    "title": "'고유수용성감각 운동'이란 존재하지 않습니다",
+    "file": "'고유수용성감각 운동'이란 존재하지 않습니다.md",
+    "slug": "rethinking-proprioceptive-exercise",
+    "legacySlugs": [
+      "naver-223314199593"
+    ],
+    "naverId": "223314199593"
+  },
+  {
+    "title": "'고유수용성감각 운동'이 효과적인 사람들",
+    "file": "'고유수용성감각 운동'이 효과적인 사람들.md",
+    "slug": "who-benefits-from-proprioceptive-training",
+    "legacySlugs": [
+      "naver-223315760763"
+    ],
+    "naverId": "223315760763"
+  },
+  {
+    "title": "[Knee OA] 9. 관절염이 있으면 몸통이 옆으로 기운다",
+    "file": "무릎 골관절염 9. 보행 중 몸통의 기울임.md",
+    "slug": "knee-osteoarthritis-trunk-lean",
+    "legacySlugs": [
+      "naver-223321581151"
+    ],
+    "naverId": "223321581151"
+  },
+  {
+    "title": "[Knee OA] 10. 관절염 공부할 때 무릎만 보면 안 되는 이유",
+    "file": "무릎 골관절염 10. 무릎 이외의 관절을 보는 이유.md",
+    "slug": "knee-osteoarthritis-beyond-the-knee",
+    "legacySlugs": [
+      "naver-223323508069"
+    ],
+    "naverId": "223323508069"
+  },
+  {
+    "title": "[Facet Joint] 척추 후관절의 해부학과 역학",
+    "file": "척추 후관절의 해부학과 역학.md",
+    "slug": "spinal-facet-joint-anatomy-biomechanics",
+    "legacySlugs": [
+      "naver-223324482489"
+    ],
+    "naverId": "223324482489"
+  },
+  {
+    "title": "[Facet Joint] 후관절의 역학적 안정성",
+    "file": "척추 후관절의 역학적 안정성.md",
+    "slug": "facet-joint-mechanical-stability",
+    "legacySlugs": [
+      "naver-223325330552"
+    ],
+    "naverId": "223325330552"
+  },
+  {
+    "title": "[발목불안정] CAI 환자의 vGRF 패턴은 어떨까? (上)",
+    "file": "발목 불안정 환자의 수직 지면반력 패턴 상편.md",
+    "slug": "ankle-instability-ground-reaction-force-patterns",
+    "legacySlugs": [
+      "naver-223330294932"
+    ],
+    "naverId": "223330294932"
+  },
+  {
+    "title": "[발목불안정] 발목이 안 좋은데 지면반력은 강해졌다?(中)",
+    "file": "발목 불안정 환자의 수직 지면반력 패턴 중편.md",
+    "slug": "ankle-instability-increased-ground-reaction-forces",
+    "legacySlugs": [
+      "naver-223334664497"
+    ],
+    "naverId": "223334664497"
+  },
+  {
+    "title": "[부상예방] 스크리닝 테스트가 쓸모 없다고 하는 이유",
+    "file": "부상예방 - 스크리닝 테스트가 쓸모 없다고 하는 이유.md",
+    "slug": "injury-screening-test-limitations",
+    "legacySlugs": [
+      "naver-223343030705"
+    ],
+    "naverId": "223343030705"
+  },
+  {
+    "title": "[부상예방] 효과가 불명확할지라도 그 운동을 안 할 필요는 없다",
+    "file": "부상예방 - 효과가 불명확할지라도 그 운동을 안 할 필요는 없다.md",
+    "slug": "injury-prevention-despite-uncertain-effects",
+    "legacySlugs": [
+      "naver-223347244453"
+    ],
+    "naverId": "223347244453"
+  },
+  {
+    "title": "딥 스쿼트(deep squat)가 무릎에 나쁘다고요? - 1편",
+    "file": "딥 스쿼트(deep squat)가 무릎에 나쁘다고요 - 1편.md",
+    "slug": "deep-squat-and-knee-health",
+    "legacySlugs": [
+      "naver-223353650968"
+    ],
+    "naverId": "223353650968"
+  },
+  {
+    "title": "무릎이 발 끝을 넘지 않는 스쿼트를 가르치시나요? 아직도?",
+    "file": "무릎이 발 끝을 넘지 않는 스쿼트를 가르치시나요 아직도.md",
+    "slug": "knees-over-toes-in-squats",
+    "legacySlugs": [
+      "naver-223360722005"
+    ],
+    "naverId": "223360722005"
+  },
+  {
+    "title": "트레드밀 러닝과 지상 러닝은 어떻게 다를까? - 1편",
+    "file": "트레드밀 러닝과 지상 러닝은 어떻게 다를까 - 1편.md",
+    "slug": "treadmill-versus-overground-running",
+    "legacySlugs": [
+      "naver-223369946598"
+    ],
+    "naverId": "223369946598"
+  },
+  {
+    "title": "근육 스트레칭 vs. 근막 스트레칭 (1편)",
+    "file": "근육 스트레칭 vs. 근막 스트레칭 (1편).md",
+    "slug": "muscle-versus-fascial-stretching",
+    "legacySlugs": [
+      "naver-223373632670"
+    ],
+    "naverId": "223373632670"
+  },
+  {
+    "title": "[뼈] 뼈의 기계적 특성에 대한 간단 리뷰",
+    "file": "뼈 - 뼈의 기계적 특성에 대한 간단 리뷰.md",
+    "slug": "bone-mechanical-properties-review",
+    "legacySlugs": [
+      "naver-223379868601"
+    ],
+    "naverId": "223379868601"
+  },
+  {
+    "title": "[뼈] 뼈가 견뎌야 하는 부하 (feat. 대퇴골)",
+    "file": "뼈 - 뼈가 견뎌야 하는 부하 (feat. 대퇴골).md",
+    "slug": "femoral-bone-loading",
+    "legacySlugs": [
+      "naver-223380737551"
+    ],
+    "naverId": "223380737551"
+  },
+  {
+    "title": "[기초] 모멘트 암, 운동 역학의 설계자",
+    "file": "기초 - 모멘트 암, 운동 역학의 설계자.md",
+    "slug": "moment-arms-in-biomechanics",
+    "legacySlugs": [
+      "naver-223552723066"
+    ],
+    "naverId": "223552723066"
+  },
+  {
+    "title": "(발목불안정) 발목 다친 사람은 전방십자인대를 다칠 위험이 높다?",
+    "file": "(발목불안정) 발목 다친 사람은 전방십자인대를 다칠 위험이 높다.md",
+    "slug": "ankle-instability-and-acl-injury-risk",
+    "legacySlugs": [
+      "naver-223569449632"
+    ],
+    "naverId": "223569449632"
+  },
+  {
+    "title": "벤치프레스 전에 선피로 훈련법, 효과 있을까?",
+    "file": "벤치프레스 전에 선피로 훈련법, 효과 있을까.md",
+    "slug": "pre-exhaustion-before-bench-press",
+    "legacySlugs": [
+      "naver-223581457641"
+    ],
+    "naverId": "223581457641"
+  },
+  {
+    "title": "리프팅 테크닉을 활용한 파워 트레이닝이 좋을까? (요약 ver)",
+    "file": "리프팅 테크닉을 활용한 파워 트레이닝이 좋을까 (요약 ver).md",
+    "slug": "lifting-techniques-for-power-training",
+    "legacySlugs": [
+      "naver-223597045329"
+    ],
+    "naverId": "223597045329"
+  },
+  {
+    "title": "[논문 요약] 전방십자인대 수술 이후, 무릎의 역학 변화 (OA와 연관지어서)",
+    "file": "논문 요약 - 전방십자인대 수술 이후, 무릎의 역학 변화 (OA와 연관지어서).md",
+    "slug": "acl-reconstruction-knee-mechanics-osteoarthritis",
+    "legacySlugs": [
+      "naver-223601888171"
+    ],
+    "naverId": "223601888171"
+  },
+  {
+    "title": "[논문 요약] ACL 수술 이후, 보행의 점진적 변화에 대한 메타분석 연구",
+    "file": "논문 요약 - ACL 수술 이후, 보행의 점진적 변화에 대한 메타분석 연구.md",
+    "slug": "acl-reconstruction-gait-changes-meta-analysis",
+    "legacySlugs": [
+      "naver-223604390786"
+    ],
+    "naverId": "223604390786"
+  },
+  {
+    "title": "근전도(EMG)로는 힘의 크기를 정확히 분석하기 어렵다",
+    "file": "근전도(EMG)로는 힘의 크기를 정확히 분석하기 어렵다.md",
+    "slug": "emg-and-muscle-force-estimation",
+    "legacySlugs": [
+      "naver-223695185593"
+    ],
+    "naverId": "223695185593"
+  },
+  {
+    "title": "3가지 햄스트링 운동의 Muscle Force와 Fascicle Behavior 비교",
+    "file": "햄스트링 운동 세 가지의 근육 힘과 근속 거동 비교.md",
+    "slug": "hamstring-exercises-force-fascicle-behavior",
+    "legacySlugs": [
+      "naver-223728886241"
+    ],
+    "naverId": "223728886241"
+  },
+  {
+    "title": "COM(Center of Mass)과 COP(Center of Pressure)란 무엇인가?",
+    "file": "질량중심(COM)과 압력중심(COP)의 개념.md",
+    "slug": "center-of-mass-center-of-pressure",
+    "legacySlugs": [
+      "naver-223740266320"
+    ],
+    "naverId": "223740266320"
+  },
+  {
+    "title": "무릎 굴곡 각도가 따른 ACL, PCL, Meniscus의 역학에 미치는 영향",
+    "file": "무릎 굴곡 각도와 ACL·PCL·반월상연골판의 역학.md",
+    "slug": "knee-flexion-acl-pcl-meniscus-mechanics",
+    "legacySlugs": [
+      "naver-223794653193"
+    ],
+    "naverId": "223794653193"
+  },
+  {
+    "title": "[ACL 재활] 십자인대 수술 후 여전히 근력 운동만 하고 있나요?",
+    "file": "ACL 재활 - 십자인대 수술 후 여전히 근력 운동만 하고 있나요.md",
+    "slug": "acl-rehabilitation-beyond-strength-training",
+    "legacySlugs": [
+      "naver-223804849998"
+    ],
+    "naverId": "223804849998"
+  },
+  {
+    "title": "[Pathological Gait] 근육의 작용을 입체적으로 보아야 한다 (1편)",
+    "file": "병적 보행에서 근육 기능을 해석하는 방법 1편.md",
+    "slug": "pathological-gait-muscle-function",
+    "legacySlugs": [
+      "naver-223830623906"
+    ],
+    "naverId": "223830623906"
+  },
+  {
+    "title": "[Force Development] 3. Muscle Slack은 실존하는가? - 비판적 평가",
+    "file": "근육 슬랙의 존재에 대한 비판적 검토.md",
+    "slug": "muscle-slack-critical-review",
+    "legacySlugs": [
+      "naver-223837809861"
+    ],
+    "naverId": "223837809861"
+  },
+  {
+    "title": "[Nervous System] 1. Motor Control의 신경학적 기초",
+    "file": "운동조절의 신경학적 기초.md",
+    "slug": "motor-control-neurological-foundations",
+    "legacySlugs": [
+      "naver-223855396352"
+    ],
+    "naverId": "223855396352"
+  },
+  {
+    "title": "[데이터 분석] 정규성 검정 결과에 따른 비모수 분석 선택의 함정",
+    "file": "데이터 분석 - 정규성 검정 결과에 따른 비모수 분석 선택의 함정.md",
+    "slug": "normality-tests-nonparametric-analysis",
+    "legacySlugs": [
+      "naver-223865468884"
+    ],
+    "naverId": "223865468884"
+  },
+  {
+    "title": "<EMG 바로알기> (1) 근전도 분석으로는 Motor recruitment와 Rate coding의 기전을 구별할 수 없다",
+    "file": "EMG 바로알기 1. 운동단위 동원과 발화율의 구별.md",
+    "slug": "emg-recruitment-versus-rate-coding",
+    "legacySlugs": [
+      "naver-223928632961"
+    ],
+    "naverId": "223928632961"
+  },
+  {
+    "title": "<EMG 바로알기> (2) 근전도는 근육의 '활성'이 아니라 '흥분'을 측정한다.",
+    "file": "EMG 바로알기 2. 근육의 활성과 흥분.md",
+    "slug": "emg-excitation-versus-activation",
+    "legacySlugs": [
+      "naver-223929959153"
+    ],
+    "naverId": "223929959153"
+  },
+  {
+    "title": "<EMG 바로알기> (3) 근활성도가 높다고 '큰 힘'을 내고 있는 것이 아니다",
+    "file": "EMG 바로알기 3. 근전도 크기와 근육 힘.md",
+    "slug": "emg-amplitude-versus-muscle-force",
+    "legacySlugs": [
+      "naver-223929991309"
+    ],
+    "naverId": "223929991309"
+  },
+  {
+    "title": "<EMG 바로알기> (4) 근활성도가 높다고 '근육 성장'에 유리하다는 이야기는 아니다.",
+    "file": "EMG 바로알기 4. 근전도 크기와 근육 성장.md",
+    "slug": "emg-amplitude-versus-muscle-growth",
+    "legacySlugs": [
+      "naver-223932844185"
+    ],
+    "naverId": "223932844185"
+  },
+  {
+    "title": "[만성요통] 척추 안정화 시스템 & 요추의 기능적 불안정성(functional instability)에 대해서",
+    "file": "만성 요통 - 척추 안정화 시스템과 기능적 불안정성.md",
+    "slug": "spinal-stabilization-functional-instability",
+    "legacySlugs": [
+      "naver-223938380399"
+    ],
+    "naverId": "223938380399"
+  },
+  {
+    "title": "스포츠의학을 떠나 기계공학과로 다시 진학했다.",
+    "file": "스포츠의학을 떠나 기계공학과로 다시 진학했다.md",
+    "slug": "from-sports-medicine-to-mechanical-engineering",
+    "legacySlugs": [
+      "naver-224035638334"
+    ],
+    "naverId": "224035638334"
+  },
+  {
+    "title": "저지방 우유, 야채, 통밀빵이 몸에 '염증'을 일으킨다고??",
+    "file": "저지방 우유, 야채, 통밀빵이 몸에 '염증'을 일으킨다고.md",
+    "slug": "low-fat-milk-vegetables-whole-grains-inflammation",
+    "legacySlugs": [
+      "naver-224057774636"
+    ],
+    "naverId": "224057774636"
+  },
+  {
+    "title": "[Foot Striking] Forefoot(전족부)으로 달리는 게 정말 그렇게 좋을까?",
+    "file": "전족부 착지로 달리는 것이 더 좋을까.md",
+    "slug": "forefoot-strike-running-benefits",
+    "legacySlugs": [
+      "naver-224069895691"
+    ],
+    "naverId": "224069895691"
+  },
+  {
+    "title": "[Economoy] 효율적 달리기에 영향을 미치는 '생체역학적' 변수",
+    "file": "달리기 효율에 영향을 미치는 생체역학적 변수.md",
+    "slug": "running-economy-biomechanical-factors",
+    "legacySlugs": [
+      "naver-224146107660"
+    ],
+    "naverId": "224146107660"
+  },
+  {
+    "title": "[Chronic Pain] 만성 통증에 대한 이해와 기초 재활 컨셉",
+    "file": "만성 통증의 이해와 기초 재활 개념.md",
+    "slug": "chronic-pain-rehabilitation-concepts",
+    "legacySlugs": [
+      "naver-224163944337"
+    ],
+    "naverId": "224163944337"
+  },
+  {
+    "title": "고강도 운동에서도 지방이 연료로 쓰인다? (근육 글리코겐 저혈당 이론의 붕괴)",
+    "file": "고강도 운동에서도 지방이 연료로 쓰인다 (근육 글리코겐 저혈당 이론의 붕괴).md",
+    "slug": "fat-oxidation-high-intensity-exercise",
+    "legacySlugs": [
+      "naver-224175043806"
+    ],
+    "naverId": "224175043806"
+  },
+  {
+    "title": "한국 트레이너 자격증은 부실하다",
+    "file": "한국 트레이너 자격증은 부실하다.md",
+    "slug": "trainer-certification-quality-in-korea",
+    "legacySlugs": [
+      "naver-224189057278"
+    ],
+    "naverId": "224189057278"
+  },
+  {
+    "title": "Kinetic Chain 쉽게 이해하기 (회내 스윙을 의도적으로 가르쳐야 할까?)",
+    "file": "운동사슬의 이해와 회내 스윙 지도.md",
+    "slug": "kinetic-chain-pronation-stroke",
+    "legacySlugs": [
+      "naver-224213612606"
+    ],
+    "naverId": "224213612606"
+  },
+  {
+    "title": "[Gait Analysis] Hip, Shank, Ankle은 같이 움직일까?",
+    "file": "보행 중 고관절·하퇴·발목의 움직임 결합.md",
+    "slug": "hip-shank-ankle-coupling-during-gait",
+    "legacySlugs": [
+      "naver-224219478406"
+    ],
+    "naverId": "224219478406"
+  },
+  {
+    "title": "Knee Pain이 있는 남성과 여성 러너의 역학 차이 (부제: 연구 결과의 트레이닝 적용은 항상 조심히)",
+    "file": "무릎 통증이 있는 남녀 러너의 역학 차이.md",
+    "slug": "male-female-runners-with-knee-pain",
+    "legacySlugs": [
+      "naver-224269359914"
+    ],
+    "naverId": "224269359914"
+  },
+  {
+    "title": "[기초통계] p-value, 우리는 무엇을 알고 무엇을 오해하고 있는가",
+    "file": "기초통계 - p-value, 우리는 무엇을 알고 무엇을 오해하고 있는가.md",
+    "slug": "p-values-interpretation-misconceptions",
+    "legacySlugs": [
+      "naver-224305932602"
+    ],
+    "naverId": "224305932602"
+  },
+  {
+    "title": "[Foot Arch] 횡아치의 존재 이유, 발을 단단하게 감싸는 게 러닝에 더 유리할까?",
+    "file": "발의 횡아치와 러닝 중 발의 강성.md",
+    "slug": "transverse-foot-arch-running",
+    "legacySlugs": [
+      "naver-224355326640"
+    ],
+    "naverId": "224355326640"
+  },
+  {
+    "title": "완벽한 운동법을 좆는 피트니스 문화를 바라보며 (Train Smarter, Not Longer)",
+    "file": "완벽한 운동법을 추구하는 피트니스 문화.md",
+    "slug": "train-smarter-not-longer",
+    "legacySlugs": [
+      "naver-224382194838"
+    ],
+    "naverId": "224382194838"
+  },
+  {
+    "title": "[Basics] Linear motion, energy, work, power 개념 배우기",
+    "file": "선운동·에너지·일·파워의 기초 개념.md",
+    "slug": "linear-motion-energy-work-power",
+    "legacySlugs": [
+      "naver-224469302459"
+    ],
+    "naverId": "224469302459"
+  }
+]

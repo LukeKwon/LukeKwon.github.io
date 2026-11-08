@@ -1,0 +1,101 @@
+---
+slug: emg-recruitment-versus-rate-coding
+legacySlugs: [naver-223928632961]
+title: "<EMG 바로알기> (1) 근전도 분석으로는 Motor recruitment와 Rate coding의 기전을 구별할 수 없다"
+description: ""
+date: "2025-07-10T14:17:00+09:00"
+category: "Kinesiology"
+subcategory: "근전도(EMG)"
+tags: []
+draft: false
+originalUrl: "https://blog.naver.com/itsmekinesiologist/223928632961"
+naverId: "223928632961"
+---
+
+<strong>운동단위(Motor Unit)</strong>가 무엇인지부터 간단히 짚어보자.
+
+-   하나의 운동 뉴런과 그 뉴런이 지배하는 모든 근섬유로 구성된 힘 생성의 기본 단위.
+    
+
+
+
+**신경계는 다음 두 가지 주요 기전을 통해 muscle force를 조절**한다.
+
+-   운동단위 동원 (Motor Unit Recruitment): 더 많은 운동단위를 활성화하여 힘을 증가시킬 수 있음.
+    
+-   발화율 부호화 (Rate Coding): 이미 활성화된 운동단위의 '발화' 빈도를 높여 힘을 증가시킬 수 있음.
+    
+
+
+
+
+
+중요한 건, **sEMG 분석을 통해 획득한 진폭(amplitude)만으로는 두 기전을 구별할 수 없다**는 점이다.
+
+
+
+피로하지 않은 (non-fatiguing) 상태에서, 운동단위 동원과 발화율 부호화는 시간-평균된 sEMG 진폭에 거의 동등하게 기여한다. 따라서 sEMG 진폭의 변화가 둘 중 어떤 요인에 의한 것인지 분리하여 판단할 수 없다.
+
+
+
+또한 두 기전의 상대적 기여도는 근육의 종류(e.g., 비복근이냐 대퇴사두근이냐)와 과제의 특성(e.g., 걷기냐 달리기냐)에 따라 달라진다. 따라서 선행 연구를 통해 각 특정 근육들의 동원 특성을 알지 못한다면 sEMG로부터 운동단위 동원과 발화율 부호화의 상대적 기여도 차이에 관한 해석이 불가능하다.
+
+
+
+![](/images/naver/1f1c4f91bb34d9927e910e0c.png)
+
+
+
+**sEMG 해석을 복잡하게 만드는 추가 요인들이 몇 가지 더 있다.**
+
+
+
+먼저 <strong>한 근육 내에서 운동 단위 동원의 순서(sequence)</strong>에 따른 차이가 존재한다. 근육 내 운동단위가 깊은 곳에서 얕은 곳(deep to superficial)으로 동원되는지, 얕은 곳에서 깊은 곳(superficial to deep)으로 동원되는지에 따라 sEMG 진폭-힘의 관계가 크게 달라진다. 예를 들어, 전경골근(tibialis anterior)은 얕은 곳에서 깊은 곳으로 동원되는 경향을 보여 독특한 sEMG 진폭-힘 관계를 가진다고 알려져 있다.
+
+
+
+**피로 상태(fatiguing condition)** 또한 sEMG 진폭 변화에 대한 해석을 어렵게 한다. 피로해진 상태에서는 세포 내외 이온 농도 변화나 운동단위 동기화(motor unit synchronization) 같은 요인들이 피로하지 않을 때와 차이를 보이는데, 이 때문에 sEMG 진폭을 예측하기가 어려워진다. 이러한 요인들은 sEMG를 통해 측정된 neural drive 신호를 혼란시켜 해석을 더욱 복잡하게 만든다.
+
+
+
+위와 같은 내재적 특성 때문에, **sEMG 진폭만으로는 운동단위 동원이나 발화율 부호화에 대한 기전적(mechanistic) 결론을 내릴 수 없다**. Spike-triggered averaging이나 Spectral analyses과 같은 복잡한 기법들도 있지만, 역동적(dynamic)이거나 고강도, 피로 유발 운동 상황에서는 그 타당성에 의문이 제기되고 있다.
+
+
+
+물론 미래에는 더 정교한 기술들이 탄생할 것이라고 본다. 고밀도(High-Density) EMG나 분해(decomposition)와 같은 새로운 기술들이 미래에 이러한 기전들을 더 깊이 이해할 수 있는 통찰력을 제공할 수 있다. 하지만 이러한 기술들이 보편적으로 검증되고 사용되기 전까지, 연구자들(특히 트레이너나 치료사와 같은 현장 전문가)은 **sEMG 신호만으로 내릴 수 있는 결론에 한계가 있음을 인지해야 한다**.
+
+* * *
+
+> 원문: Vigotsky AD, Halperin I, Lehman GJ, Trajano GS and Vieira TM (2018) Interpreting Signal Amplitudes in Surface Electromyography Studies in Sport and Rehabilitation Sciences. _Front. Physiol_. 8:985. doi: 10.3389/fphys.2017.00985
+
+* * *
+
+**\[작성자\]**
+
+**운동학자 권준형 (insta: @jh\_sportmedi)**
+
+[https://www.instagram.com/jh\_sportsmedi/](https://www.instagram.com/jh_sportsmedi/)
+
+[Kwon Junhyeong, Kinesiologist(@jh\_sportsmedi) • Instagram 사진 및 동영상](https://www.instagram.com/jh_sportsmedi/)
+
+* * *
+
+#근전도
+
+#생체역학
+
+#운동역학
+
+#트레이너
+
+#물리치료사
+
+#근육활성도
+
+#EMG
+
+#스포츠의학
+
+#스포츠과학
+
+#움직임과학
