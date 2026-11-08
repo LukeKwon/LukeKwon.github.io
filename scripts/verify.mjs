@@ -30,6 +30,7 @@ for (const file of htmlFiles) {
   const html = fs.readFileSync(file, 'utf8');
   assert(!html.includes('빌드 검증 문서'), 'Verification article must not ship');
   assert(!html.includes('새 글의 제목'), 'Draft title must not ship');
+  assert(!html.includes('**'), `Markdown emphasis leaked into HTML: ${file}`);
   for (const match of html.matchAll(/(?:href|src)="([^"#]+)"/g)) {
     const value = match[1].replaceAll('&amp;', '&');
     if (!value.startsWith('/') || value.startsWith('//')) continue;
@@ -42,3 +43,7 @@ for (const file of htmlFiles) {
 const published = fs.readdirSync(path.join(root,'src/content/posts')).filter(name=>name.endsWith('.md') && /^draft:\s*false\s*$/m.test(fs.readFileSync(path.join(root,'src/content/posts',name),'utf8'))).length;
 assert.equal(htmlFiles.length, 5 + (fs.readFileSync(path.join(root,'src/lib/site.ts'),'utf8').match(/"naverId":/g)||[]).length + published, 'Expected public pages');
 console.log(`PASS: ${htmlFiles.length} production pages, all internal links/assets, no draft or verification content`);
+const injuryArticle = read('posts/naver-223229757104/index.html');
+assert(injuryArticle.includes('<strong>생체역학적 불안정함(instability)</strong>'));
+assert(injuryArticle.includes('<strong>근육과 관련된 근신경학적 변화</strong>'));
+console.log('PASS: both reported phrases render as strong text; no visible emphasis markers');
