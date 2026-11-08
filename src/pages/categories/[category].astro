@@ -1,10 +1,10 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import PostList from '../../components/PostList.astro';
-import { categories, href } from '../../lib/site';
+import { allCategories, href, postInCategory } from '../../lib/site';
 import { getPosts } from '../../lib/posts';
-export function getStaticPaths() { return categories.map(category => ({ params: { category: category.slug }, props: { category } })); }
+export function getStaticPaths() { return allCategories.map(category => ({ params: { category: category.slug }, props: { category } })); }
 const { category } = Astro.props;
-const posts = (await getPosts()).filter(post => post.category === category.name);
+const posts = (await getPosts()).filter(post => postInCategory(post, category));
 ---
 <Layout title={category.name} active="categories"><div class="wrap inner-page readable-list"><a class="back-link" href={href('categories/')}>← 전체 카테고리</a><p class="eyebrow">{category.english}</p><h1>{category.name}<span class="orange">.</span></h1><p class="page-lead">{category.description}</p><PostList posts={posts} />{!posts.length && <div class="category-empty"><p>이 카테고리의 기록은 기존 블로그에서 볼 수 있습니다.</p><a href={`https://blog.naver.com/PostList.naver?blogId=itsmekinesiologist&categoryNo=${category.naverId}`} target="_blank" rel="noopener noreferrer">네이버에서 {category.name} 글 보기 ↗</a></div>}</div></Layout>

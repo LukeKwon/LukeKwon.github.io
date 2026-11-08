@@ -39,5 +39,6 @@ for (const file of htmlFiles) {
     assert(fs.existsSync(target), `Broken internal asset/link: ${value} in ${file}`);
   }
 }
-assert.equal(htmlFiles.length, 8, 'Expected public pages');
+const published = fs.readdirSync(path.join(root,'src/content/posts')).filter(name=>name.endsWith('.md') && /^draft:\s*false\s*$/m.test(fs.readFileSync(path.join(root,'src/content/posts',name),'utf8'))).length;
+assert.equal(htmlFiles.length, 5 + (fs.readFileSync(path.join(root,'src/lib/site.ts'),'utf8').match(/"naverId":/g)||[]).length + published, 'Expected public pages');
 console.log(`PASS: ${htmlFiles.length} production pages, all internal links/assets, no draft or verification content`);

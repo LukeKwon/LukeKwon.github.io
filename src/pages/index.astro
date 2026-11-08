@@ -18,24 +18,34 @@ const posts = await getPosts();
     <section class="notes-column" id="notes" aria-labelledby="notes-title">
       <div class="section-heading"><div><p class="eyebrow">RESEARCH & WRITING</p><h2 id="notes-title">최근 기록</h2></div><span class="article-count">{posts.length}개의 글</span></div>
       <div class="filter-bar" role="group" aria-label="카테고리 필터"><button class="selected" data-filter="all" aria-pressed="true">전체</button>{categories.map(category => <button data-filter={category.name} aria-pressed="false">{category.name}</button>)}</div>
-      <p class="archive-note">기존 글은 ‘네이버 원문’ 링크로 연결됩니다.</p>
+      <p class="archive-note">네이버에서 작성한 글을 원래의 분류와 작성일에 맞춰 모았습니다.</p>
       <PostList posts={posts} />
-      <div class="category-empty" data-category-empty hidden><p>이 카테고리의 기록은 기존 블로그에서 볼 수 있습니다.</p><a href="https://blog.naver.com/PostList.naver?blogId=itsmekinesiologist&categoryNo=10" target="_blank" rel="noopener noreferrer">스페셜포커스 원문 보기 ↗</a></div>
+      <div class="category-empty" data-category-empty hidden><p>이 카테고리에는 아직 공개된 글이 없습니다.</p></div>
+      <button class="load-more" data-more hidden>글 더 보기</button>
       <p class="result-announcement sr-only" aria-live="polite" data-filter-result></p>
     </section>
   </div>
 </Layout>
 <script>
   const buttons = document.querySelectorAll<HTMLButtonElement>('[data-filter]');
-  const rows = document.querySelectorAll<HTMLElement>('[data-post]');
+  const rows = Array.from(document.querySelectorAll<HTMLElement>('[data-post]'));
   const empty = document.querySelector<HTMLElement>('[data-category-empty]');
-  buttons.forEach(button => button.addEventListener('click', () => {
-    const category = button.dataset.filter;
-    let count = 0;
-    rows.forEach(row => { row.hidden = category !== 'all' && row.dataset.category !== category; if (!row.hidden) count++; });
-    buttons.forEach(item => { const selected = item === button; item.classList.toggle('selected', selected); item.setAttribute('aria-pressed', String(selected)); });
-    if (empty) empty.hidden = count > 0;
+  const more = document.querySelector<HTMLButtonElement>('[data-more]');
+  let category = 'all'; let limit = 24;
+  function update() {
+    const matches = rows.filter(row => category === 'all' || row.dataset.category === category);
+    rows.forEach(row => { row.hidden = true; });
+    matches.slice(0, limit).forEach(row => { row.hidden = false; });
+    if (more) more.hidden = matches.length <= limit;
+    if (empty) empty.hidden = matches.length > 0;
     const announcement = document.querySelector('[data-filter-result]');
-    if (announcement) announcement.textContent = `${button.textContent} ${count}개의 글`;
+    if (announcement) announcement.textContent = `${category === 'all' ? '전체' : category} ${matches.length}개의 글 중 ${Math.min(limit,matches.length)}개 표시`;
+  }
+  buttons.forEach(button => button.addEventListener('click', () => {
+    category = button.dataset.filter || 'all'; limit = 24;
+    buttons.forEach(item => { const selected = item === button; item.classList.toggle('selected', selected); item.setAttribute('aria-pressed', String(selected)); });
+    update();
   }));
+  more?.addEventListener('click', () => {limit += 24; update();});
+  update();
 </script>

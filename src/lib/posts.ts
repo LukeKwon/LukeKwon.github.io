@@ -5,6 +5,6 @@ export async function getPosts() {
   const local = await getCollection('posts', ({ data }) => !data.draft);
   return [
     ...local.map(({ id, data }) => ({ ...data, url: href(`posts/${id}/`), external: false })),
-    ...legacyPosts.map(post => ({ ...post, date: new Date(`${post.date}T12:00:00+09:00`), description: '', url: `https://blog.naver.com/itsmekinesiologist/${post.id}`, external: true })),
+    ...legacyPosts.filter(post => !local.some(entry => entry.data.originalUrl?.endsWith(`/${post.id}`))).map(post => ({ ...post, date: new Date(`${post.date}T12:00:00+09:00`), description: '', url: `https://blog.naver.com/itsmekinesiologist/${post.id}`, external: true })),
   ].sort((a, b) => b.date.getTime() - a.date.getTime());
 }
