@@ -13,7 +13,6 @@ const posts = await getPosts();
       <p class="intro">{site.description}</p>
       <a class="author" href={href('about/')}><img src={href('images/logo.png')} width="52" height="52" alt="Kinesiology Notes 로고" /><span><strong>{site.author}</strong><small>{site.name}</small></span><span aria-hidden="true">→</span></a>
       <div class="sidebar-categories"><h2 class="eyebrow">CATEGORIES</h2>{categories.map(category => <a href={href(`categories/${category.slug}/`)}><span>{category.name}</span><span>{posts.filter(post => post.category === category.name).length.toString().padStart(2, '0')}</span></a>)}</div>
-      <a class="text-link old-blog" href={site.naver} target="_blank" rel="noopener noreferrer">기존 네이버 블로그 ↗</a>
     </aside>
     <section class="notes-column" id="notes" aria-labelledby="notes-title">
       <div class="section-heading"><div><p class="eyebrow">RESEARCH & WRITING</p><h1 id="notes-title">최근 기록</h1></div><span class="article-count">{posts.length}개의 글</span></div>

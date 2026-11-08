@@ -32,6 +32,6 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : undefin
       </nav>
     </header>
     <main id="main"><slot /></main>
-    <footer class="site-footer wrap"><div><strong>KINESIOLOGY NOTES<span class="orange">.</span></strong><p>Biomechanics / Rehabilitation / Movement</p></div><div class="footer-right"><a href={site.naver} target="_blank" rel="noopener noreferrer">네이버 블로그 ↗</a><span>© {new Date().getFullYear()} {site.author}</span></div></footer>
+    <footer class="site-footer wrap"><div><strong>KINESIOLOGY NOTES<span class="orange">.</span></strong><p>Biomechanics / Rehabilitation / Movement</p></div><div class="footer-right"><span>© {new Date().getFullYear()} {site.author}</span></div></footer>
   </body>
 </html>
